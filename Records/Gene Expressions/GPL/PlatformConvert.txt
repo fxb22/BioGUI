@@ -1,0 +1,71 @@
+Accession†	Samples	Data table rows	Organism(s)	Title	Contact	Organization name	Date released
+GPL74	23	2059	Homo sapiens	[HC_G110] Affymetrix Human Cancer Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL80	681	7129	Homo sapiens	[Hu6800] Affymetrix Human Full Length HuGeneFL Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL91	1023	12626	Homo sapiens	[HG_U95A] Affymetrix Human Genome U95A Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL92	340	12620	Homo sapiens	[HG_U95B] Affymetrix Human Genome U95B Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL93	339	12646	Homo sapiens	[HG_U95C] Affymetrix Human Genome U95C Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL94	170	12644	Homo sapiens	[HG_U95D] Affymetrix Human Genome U95D Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL95	169	12639	Homo sapiens	[HG_U95E] Affymetrix Human Genome U95E Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL96	28928	22283	Homo sapiens	[HG-U133A] Affymetrix Human Genome U133A Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL97	5164	22645	Homo sapiens	[HG-U133B] Affymetrix Human Genome U133B Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL98	10	8934	Homo sapiens	[Hu35KsubA] Affymetrix Human 35K SubA Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL99	10	8924	Homo sapiens	[Hu35KsubB] Affymetrix Human 35K SubB Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL100	10	8928	Homo sapiens	[Hu35KsubC] Affymetrix Human 35K SubC Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL101	10	8928	Homo sapiens	[Hu35KsubD] Affymetrix Human 35K SubD Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Feb-02
+GPL201	3315	8793	Homo sapiens	[HG-Focus] Affymetrix Human HG-Focus Target Array	Affymetrix, Inc.	Affymetrix, Inc.	2-Jul-02
+GPL570	55130	54675	Homo sapiens	[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array	Affymetrix, Inc.	Affymetrix, Inc.	7-Nov-03
+GPL571	5519	22277	Homo sapiens	[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array	Affymetrix, Inc.	Affymetrix, Inc.	7-Nov-03
+GPL1266	356	11564	Homo sapiens	[Mapping10K_Xba131] Affymetrix Human Mapping 10K SNP Array	Affymetrix, Inc.	Affymetrix, Inc.	28-May-04
+GPL1352	583	61359	Homo sapiens	[U133_X3P] Affymetrix Human X3P Array	Affymetrix, Inc.	Affymetrix, Inc.	19-Jul-04
+GPL2004	3256	57299	Homo sapiens	[Mapping50K_Hind240] Affymetrix Human Mapping 50K Hind240 SNP Array	Affymetrix, Inc.	Affymetrix, Inc.	28-Apr-05
+GPL2005	3740	59015	Homo sapiens	[Mapping50K_Xba240] Affymetrix Human Mapping 50K Xba240 SNP Array	Affymetrix, Inc.	Affymetrix, Inc.	28-Apr-05
+GPL2641	8185	10208	Homo sapiens	[Mapping10K_Xba142] Affymetrix Human Mapping 10K 2.0 Array	Affymetrix, Inc.	Affymetrix, Inc.	18-Jul-05
+GPL3718	7328	262338	Homo sapiens	[Mapping250K_Nsp] Affymetrix Mapping 250K Nsp SNP Array	Affymetrix, Inc.	Affymetrix, Inc.	2-May-06
+GPL3720	6574	238378	Homo sapiens	[Mapping250K_Sty] Affymetrix Mapping 250K Sty2 SNP Array	Affymetrix, Inc.	Affymetrix, Inc.	2-May-06
+GPL3921	2442	22277	Homo sapiens	[HT_HG-U133A] Affymetrix HT Human Genome U133A Array	Affymetrix, Inc.	Affymetrix, Inc.	26-Jun-06
+GPL4910	168	0	Homo sapiens	[Hs35b_P01R] Affymetrix Human Tiling 2.0R Set, Array 1	Affymetrix, Inc.	Affymetrix, Inc.	1-Mar-07
+GPL4911	158	0	Homo sapiens	[Hs35b_P02R] Affymetrix Human Tiling 2.0R Set, Array 2	Affymetrix, Inc.	Affymetrix, Inc.	1-Mar-07
+GPL4912	164	0	Homo sapiens	[Hs35b_P03R] Affymetrix Human Tiling 2.0R Set, Array 3	Affymetrix, Inc.	Affymetrix, Inc.	1-Mar-07
+GPL4913	194	0	Homo sapiens	[Hs35b_P04R] Affymetrix Human Tiling 2.0R Set, Array 4	Affymetrix, Inc.	Affymetrix, Inc.	1-Mar-07
+GPL4914	203	0	Homo sapiens	[Hs35b_P05R] Affymetrix Human Tiling 2.0R Set, Array 5	Affymetrix, Inc.	Affymetrix, Inc.	1-Mar-07
+GPL4915	226	0	Homo sapiens	[Hs35b_P06R] Affymetrix Human Tiling 2.0R Set, Array 6	Affymetrix, Inc.	Affymetrix, Inc.	1-Mar-07
+GPL4916	179	0	Homo sapiens	[Hs35b_P07R] Affymetrix Human Tiling 2.0R Set, Array 7	Affymetrix, Inc.	Affymetrix, Inc.	1-Mar-07
+GPL5082	256	0	Homo sapiens	[Hs_PromPR] Affymetrix Human Promoter 1.0R Array	Affymetrix, Inc.	Affymetrix, Inc.	13-Apr-07
+GPL5175	2768	316919	Homo sapiens	[HuEx-1_0-st] Affymetrix Human Exon 1.0 ST Array [transcript (gene) version]	Affymetrix, Inc.	Affymetrix, Inc.	18-May-07
+GPL5188	2027	1432155	Homo sapiens	[HuEx-1_0-st] Affymetrix Human Exon 1.0 ST Array [probe set (exon) version]	Affymetrix, Inc.	Affymetrix, Inc.	21-May-07
+GPL6156	1	0	Homo sapiens	[Hs35b_M01R] Affymetrix Human Tiling 1.0R Set, Array 1	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6157	1	0	Homo sapiens	[Hs35b_M02R] Affymetrix Human Tiling 1.0R Set, Array 2	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6158	1	0	Homo sapiens	[Hs35b_M03R] Affymetrix Human Tiling 1.0R Set, Array 3	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6159	1	0	Homo sapiens	[Hs35b_M04R] Affymetrix Human Tiling 1.0R Set, Array 4	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6160	1	0	Homo sapiens	[Hs35b_M05R] Affymetrix Human Tiling 1.0R Set, Array 5	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6161	1	0	Homo sapiens	[Hs35b_M06R] Affymetrix Human Tiling 1.0R Set, Array 6	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6162	1	0	Homo sapiens	[Hs35b_M07R] Affymetrix Human Tiling 1.0R Set, Array 7	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6163	1	0	Homo sapiens	[Hs35b_M08R] Affymetrix Human Tiling 1.0R Set, Array 8	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6164	1	0	Homo sapiens	[Hs35b_M09R] Affymetrix Human Tiling 1.0R Set, Array 9	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6165	1	0	Homo sapiens	[Hs35b_M10R] Affymetrix Human Tiling 1.0R Set, Array 10	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6166	1	0	Homo sapiens	[Hs35b_M11R] Affymetrix Human Tiling 1.0R Set, Array 11	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6167	1	0	Homo sapiens	[Hs35b_M12R] Affymetrix Human Tiling 1.0R Set, Array 12	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6168	1	0	Homo sapiens	[Hs35b_M13R] Affymetrix Human Tiling 1.0R Set, Array 13	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6169	1	0	Homo sapiens	[Hs35b_M14R] Affymetrix Human Tiling 1.0R Set, Array 14	Affymetrix, Inc.	Affymetrix, Inc.	20-Nov-07
+GPL6244	3161	33297	Homo sapiens	[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version]	Affymetrix, Inc.	Affymetrix, Inc.	5-Dec-07
+GPL6732	48	26714	Homo sapiens	Affymetrix GeneChip Human Genome U133 Plus 2.0 Array based on a custom CDF (REFSEQ_7)	Ola Larsson	McGill Univeristy	11-Apr-08
+GPL6801	3473	1880794	Homo sapiens	[GenomeWideSNP_6] Affymetrix Genome-Wide Human SNP 6.0 Array	Affymetrix, Inc.	Affymetrix, Inc.	30-Apr-08
+GPL6804	229	784544	Homo sapiens	[GenomeWideSNP_5] Affymetrix Genome-Wide Human SNP 5.0 Array	Affymetrix, Inc.	Affymetrix, Inc.	30-Apr-08
+GPL7280	89	22300	Homo sapiens	Pathwork Diagnostics Pathchip	Ljubomir Buturovic	Pathwork Diagnostics	10-Sep-08
+GPL8036	243	50000	Homo sapiens	Affymetrix GeneChip Universal 70K Tag Array	Yuker Wang	Affymetrix	7-Jan-09
+GPL8300	4758	12625	Homo sapiens	[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array	Affymetrix, Inc.	Affymetrix, Inc.	13-Mar-09
+GPL9102	57	604258	Homo sapiens	Affymetrix Human Genome U133 Plus 2.0 Array [individual probe level version]	Henna Kallionp‰‰	University of Turku	26-Aug-09
+GPL9188	329	11961	Homo sapiens	Affymetrix GeneChip Human Genome U133A 2.0 Array [CDF: Brainarray Version 10, Hs133Av2_Hs_ENTREZG]	Kevin Struhl	Harvard Medical School	14-Sep-09
+GPL9197	16	22665	Homo sapiens	[HT_HG-U133B] Affymetrix HT Human Genome U133B Array	Affymetrix, Inc.	Affymetrix, Inc.	15-Sep-09
+GPL9324	80	17788	Homo sapiens	Affymetrix GeneChip Human Genome 133 Plus 2.0 Array [CDF: Brainarray Version 11, hgu133plus2hsentrezg]	joyce AM emons	lumc	30-Sep-09
+GPL10063	4	29875	Homo sapiens	[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array (CDF: HuGene10stv1_Hs_REFSEQ.cdf)	Stefanie Tauber	MFPL	18-Feb-10
+GPL10585	9	315922	Homo sapiens	[HuEx-1_0-st] Affymetrix Human Exon 1.0 ST Array [probe set (exon) custom CDF: HuEx10stv2_Hs_VEGAE.cdf (v10)]	Claire Vandiedonck	Inserm U958, Universite Paris Denis Diderot - Paris 7	24-Jun-10
+GPL10588	9	30839	Homo sapiens	[HuEx-1_0-st] Affymetrix Human Exon 1.0 ST Array [transcript (gene) custom CDF: HuEx10stv2_Hs_VEGAG.cdf (v10)]	Claire Vandiedonck	Inserm U958, Universite Paris Denis Diderot - Paris 7	24-Jun-10
+GPL10739	22	257430	Homo sapiens	[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [probe set (exon) version]	Affymetrix, Inc.	Affymetrix, Inc.	28-Jul-10
+GPL10983	2	0	Homo sapiens	[Mitochip_2] Affymetrix Human Mitochondrial Resequencing Array 2.0	Affymetrix, Inc.	Affymetrix, Inc.	27-Sep-10
+GPL11157	0	2795708	Homo sapiens	[Cytogenetics_Array] Affymetrix Cytogenetics Whole-Genome 2.7M Array	Affymetrix, Inc.	Affymetrix, Inc.	3-Nov-10
+GPL11532	4	33297	Homo sapiens	[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version]	Affymetrix, Inc.	Affymetrix, Inc.	18-Jan-11
+GPL13147	7	623124	Homo sapiens	[MOUSEDIVm520650] Affymetrix Mouse Diversity Genotyping Array	Affymetrix, Inc.	Affymetrix, Inc.	9-Feb-11
+GPL13158	185	54715	Homo sapiens	[HT_HG-U133_Plus_PM] Affymetrix HT HG-U133+ PM Array Plate	Affymetrix, Inc.	Affymetrix, Inc.	11-Feb-11
+GPL13270	0	330007	Homo sapiens	Affymetrix OncoScanô FFPE Express	Bioinformatics Services	Affymetrix, Inc.	10-Mar-11
+GPL13667	0	49386	Homo sapiens	[HG-U219] Affymetrix Human Genome U219 Array	Affymetrix, Inc.	Affymetrix, Inc.	31-May-11

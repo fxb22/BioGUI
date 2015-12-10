@@ -1,0 +1,32 @@
+>gi|49456405|emb|CAG46523.1| CD59 [Homo sapiens] <unknown description>
+MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQV
+YNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLENGGTSLSEKTVLLLVTPFL
+AAAWSLHP
+>gi|10835165|ref|NP_000602.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|42716299|ref|NP_976076.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|42716302|ref|NP_976075.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|42761474|ref|NP_976074.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|187828910|ref|NP_001120695.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|187829070|ref|NP_001120697.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|187829183|ref|NP_001120698.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|187829185|ref|NP_001120699.1| CD59 glycoprotein preproprotein [Homo sapiens] >gi|116021|sp|P13987.1|CD59_HUMAN RecName: Full=CD59 glycoprotein; AltName: Full=1F5 antigen; AltName: Full=20 kDa homologous restriction factor; Short=HRF-20; Short=HRF20; AltName: Full=MAC-inhibitory protein; Short=MAC-IP; AltName: Full=MEM43 antigen; AltName: Full=Membrane attack complex inhibition factor; Short=MACIF; AltName: Full=Membrane inhibitor of reactive lysis; Short=MIRL; AltName: Full=Protectin; AltName: CD_antigen=CD59; Flags: Precursor >gi|29806|emb|CAA34467.1| precursor polypeptide (AA -25 to 103) [Homo sapiens] >gi|29815|emb|CAA35059.1| CD59 antigen precursor [Homo sapiens] >gi|180151|gb|AAA88793.1| CD59 protein [Homo sapiens] >gi|180153|gb|AAA51952.1| antigen CD59 precursor (CD59) [Homo sapiens] >gi|623407|gb|AAA60543.1| T cell-activating protein [Homo sapiens] >gi|624396|gb|AAA60957.1| Ly-6-like protein [Homo sapiens] >gi|825637|emb|CAA78486.1| CD59 protein [Homo sapiens] >gi|16306664|gb|AAH01506.1| CD59 molecule, complement regulatory protein [Homo sapiens] >gi|30583047|gb|AAP35768.1| CD59 antigen p18-20 (antigen identified by monoclonal antibodies 16.3A5, EJ16, EJ30, EL32 and G344) [Homo sapiens] >gi|47115259|emb|CAG28589.1| CD59 [Homo sapiens] >gi|49456405|emb|CAG46523.1| CD59 [Homo sapiens] >gi|61361917|gb|AAX42126.1| CD59 antigen [synthetic construct] >gi|61361922|gb|AAX42127.1| CD59 antigen [synthetic construct] >gi|119588599|gb|EAW68193.1| CD59 antigen, complement regulatory protein, isoform CRA_b [Homo sapiens] >gi|123994285|gb|ABM84744.1| CD59 molecule, complement regulatory protein [synthetic construct] >gi|124126969|gb|ABM92257.1| CD59 molecule, complement regulatory protein [synthetic construct] >gi|157927958|gb|ABW03275.1| CD59 molecule, complement regulatory protein [synthetic construct] >gi|189053099|dbj|BAG34721.1| unnamed protein product [Homo sapiens] >gi|261859920|dbj|BAI46482.1| CD59 molecule, complement regulatory protein [synthetic construct] <unknown description>
+MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQV
+YNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLENGGTSLSEKTVLLLVTPFL
+AAAWSLHP
+>gi|30585045|gb|AAP36795.1| Homo sapiens CD59 antigen p18-20 (antigen identified by monoclonal antibodies 16.3A5, EJ16, EJ30, EL32 and G344) [synthetic construct] >gi|60653791|gb|AAX29589.1| CD59 antigen p18-20 [synthetic construct] >gi|60653793|gb|AAX29590.1| CD59 antigen p18-20 [synthetic construct] <unknown description>
+MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTADCKTAVNCSSDFDACLITKAGLQV
+YNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLENGGTSLSEKTVLLLVTPFL
+AAAWSLHP
+>gi|60833667|gb|AAX37059.1| CD59 antigen p18-20 [synthetic construct] <unknown description>
+MGIQGGSVLFGLLLVLAVFCHSGHSLQCHNCPNPTADCKTAVNCSSDFDACLITKAGLQV
+YNKCWKFEHCNFNDVTTRLRENELTYYCCKKDLCNFNEQLENGGTSLSEKTVLLLVTPFL
+AAAWSLHP
+>gi|197098760|ref|NP_001126861.1| CD59 glycoprotein precursor [Pongo abelii] >gi|62510420|sp|Q5R510.1|CD59_PONAB RecName: Full=CD59 glycoprotein; AltName: Full=MAC-inhibitory protein; Short=MAC-IP; AltName: Full=Membrane attack complex inhibition factor; Short=MACIF; AltName: Full=Protectin; AltName: CD_antigen=CD59; Flags: Precursor >gi|55732937|emb|CAH93156.1| hypothetical protein [Pongo abelii] <unknown description>
+MGIQGGSVLFGLLLILAVFCHSGHSLQCYSCPNPTADCKTAVNCSSGFDACLITKAGLRV
+YNQCWKFEHCTFNEVTTRLKESELTYHCCKKDLCNINEQLENGGTSLSEKTVLLLVTPFL
+AAAWSLHP
+>gi|109106850|ref|XP_001082751.1| PREDICTED: CD59 glycoprotein isoform 2 [Macaca mulatta] >gi|109106854|ref|XP_001083003.1| PREDICTED: CD59 glycoprotein isoform 4 [Macaca mulatta] >gi|90077478|dbj|BAE88419.1| unnamed protein product [Macaca fascicularis] <unknown description>
+MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTTDCKTAINCSSGFDTCLIARAGLQV
+YNQCWKFANCNYNDISTLLKESELRYFCCKKDLCNFNEQLENGGTSLSEKTVVLLVTPLL
+AAAWCLHP
+>gi|62510456|sp|Q8SQ46.1|CD59_MACFA RecName: Full=CD59 glycoprotein; AltName: Full=MAC-inhibitory protein; Short=MAC-IP; AltName: Full=Membrane attack complex inhibition factor; Short=MACIF; AltName: Full=Protectin; AltName: CD_antigen=CD59; Flags: Precursor >gi|19716066|dbj|BAB86806.1| CD59 antigen p18-20 allele A [Macaca fascicularis] >gi|67970513|dbj|BAE01599.1| unnamed protein product [Macaca fascicularis] >gi|90075422|dbj|BAE87391.1| unnamed protein product [Macaca fascicularis] <unknown description>
+MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTTDCKTAINCSSGFDTCLIARAGLQV
+YNQCWKFANCNYNDISTLLKESELRYFCCKKDLCNFNEQLESGGTSLSEKTVVLLVTPLL
+AAAWCLHP
+>gi|19716068|dbj|BAB86807.1| CD59 antigen p18-20 allele B [Macaca fascicularis] <unknown description>
+MGIQGGSVLFGLLLVLAVFCHSGHSLQCYNCPNPTTDCKTAINCSSGFDTCLIARAGLQV
+YNQCWKFANCNFNDISTLLKESELRYFCCKKDLCNLNEQLESGGTSLSEKTVVLLVTPLL
+AAAWCLHP

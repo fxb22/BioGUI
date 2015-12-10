@@ -1,0 +1,75 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.idb' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' because it is being used by another process.
+  pdbdrawcircle.cc
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\string.hh(14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\io3.hh(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(30): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(39): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(155): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(165): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(165): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  drawcircle.cc
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\string.hh(14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\io3.hh(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(30): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(39): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+libcore.lib(geo.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(geo_kabsch_analytic.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(io2.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(io3.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(lin.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(lin_eig_jacobi.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(lin_eig_jacobif4x4static.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(mat.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(mem.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(mmap.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(mmap_vecvec.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(str.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(string.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(sys.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libcore.lib(syserr.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libbio.lib(aa.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libbio.lib(ptndb.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+libbio.lib(ptndb2.obj) : warning LNK4204: 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  drawcircle.vcxproj -> D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\drawcircle.exe

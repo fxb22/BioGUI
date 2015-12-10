@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <GTKDIR>D:/data/prg/lib/gtk-2.22.1</GTKDIR>
+    <GTKDIR2>C:/data/prg/lib/gtk-2.22.1</GTKDIR2>
+    <BOOSTDIR>D:/data/prg/lib/boost_1_46_1</BOOSTDIR>
+    <BOOSTDIR2>C:/data/prg/lib/boost_1_46_1</BOOSTDIR2>
+  </PropertyGroup>
+  <PropertyGroup>
+    <_PropertySheetDisplayName>config</_PropertySheetDisplayName>
+    <OutDir>$(SolutionDir)$(Platform).$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)$(Platform).$(Configuration)\</IntDir>
+    <IncludePath>$(BOOSTDIR);$(BOOSTDIR2);$(SolutionDir)../extern/inc;$(SolutionDir)../src/;$(GTKDIR)/lib/gtk-2.0/include;$(GTKDIR2)/lib/gtk-2.0/include;$(GTKDIR)/lib/glib-2.0/include;$(GTKDIR2)/lib/glib-2.0/include;$(GTKDIR)/include/pango-1.0;$(GTKDIR2)/include/pango-1.0;$(GTKDIR)/include/libpng14;$(GTKDIR2)/include/libpng14;$(GTKDIR)/include/gtk-2.0;$(GTKDIR2)/include/gtk-2.0;$(GTKDIR)/include/glib-2.0;$(GTKDIR2)/include/glib-2.0;$(GTKDIR)/include/cairo;$(GTKDIR2)/include/cairo;$(GTKDIR)/include/atk-1.0;$(GTKDIR2)/include/atk-1.0;$(GTKDIR)/include;$(GTKDIR2)/include;$(GTKDIR)/include/gdk-pixbuf-2.0;$(GTKDIR2)/include/gdk-pixbuf-2.0;$(IncludePath)</IncludePath>
+    <LibraryPath>$(GTKDIR)/lib;$(GTKDIR2)/lib;$(SolutionDir)../extern/lib/ahmet/$(Platform).$(Configuration);$(OutDir);$(LibraryPath)</LibraryPath>
+    <SourcePath>$(GTKDIR)/include/cairo;$(GTKDIR2)/include/cairo;$(SolutionDir)../extern/inc;$(VCInstallDir)atlmfc\src\mfc;$(VCInstallDir)atlmfc\src\mfcm;$(VCInstallDir)atlmfc\src\atl;$(VCInstallDir)crt\src;</SourcePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+    </Link>
+    <ClCompile>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <BuildMacro Include="GTKDIR">
+      <Value>$(GTKDIR)</Value>
+    </BuildMacro>
+    <BuildMacro Include="GTKDIR2">
+      <Value>$(GTKDIR2)</Value>
+    </BuildMacro>
+    <BuildMacro Include="BOOSTDIR">
+      <Value>$(BOOSTDIR)</Value>
+    </BuildMacro>
+    <BuildMacro Include="BOOSTDIR2">
+      <Value>$(BOOSTDIR2)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>

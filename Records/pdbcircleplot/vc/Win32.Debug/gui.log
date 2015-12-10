@@ -1,0 +1,58 @@
+﻿  pdbdrawcircle.cc
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\string.hh(14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\io3.hh(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(30): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(39): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(155): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(161): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(165): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+d:\francis\svn\biogui\pdbcircleplot\src\pdbdrawcircle.cc(165): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  gui.cc
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\string.hh(14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\core\io3.hh(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\extern\inc\ahmet\bio\ptndb2.hh(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(30): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\pdbcircleplotpdb.hh(39): warning C4018: '<' : signed/unsigned mismatch
+d:\francis\svn\biogui\pdbcircleplot\src\gui.cc(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\francis\svn\biogui\pdbcircleplot\src\gui.cc(114): warning C4002: too many actual parameters for macro 'gtk_signal_connect_object'
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'D:\francis\svn\biogui\pdbcircleplot\vc\Win32.Debug\pdbdrawcircle.obj'

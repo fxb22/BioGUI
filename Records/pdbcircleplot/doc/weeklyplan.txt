@@ -1,0 +1,43 @@
+====== Deadline: Wednesday April 13, 2011, 4pm.
+
+Gavin & Henry:
+- Implement tmalign_getsse()
+
+Brian & Ethan:
+- Rewrite the code and write pdbcircle class. Use code in parsepdb_test to get neighbors and labels.
+
+--------
+
+Deadline: Wednesday April 13, 2011, 4pm.
+
+Gavin & Henry:
++ getneighbors()
++ map 3letter amino acid codes to single letter codes.
++ vector<float> phi, vector<float> psi angles.
+
+Brian & Ethan:
+- Draw arbitrary text
+- Load pdb and draw its residue names.
+- Draw straight lines connecting neighbors.
+
+--------
+Deadline: Wednesday April 6, 2011, 4pm.
+
+Gavin & Henry:
+write function to extract CA atoms and residue names (CYS, TYR, ALA)
+
+Brian & Ethan:
+Draw an open circle using Cairo with N points marked.
+
+
+--------
+Deadline: Wednesday March 30th
+
+Gavin & Henry:
+Parse 1crn.pdb file and print CA atom coordinates.
+
+Brian & Ethan:
+Draw a circle using Cairo.
+
+Commit: hh/cc vcxproj sln
+

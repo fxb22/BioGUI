@@ -1,0 +1,77 @@
+====== BioGUI Overview
+In the field of bioinformatics, there is no single unifying graphical user interface system. This project is aimed towards developing small program sections that can be used to display plots based on information from data files. Other goals of this project include gaining group programming experience and developing programs to solve a realistic task.
+
+====== Weekly Progress
+===== 20110525
+* Finish up the GUI and link with the drawcircle code.
+* Survey alternative solutions.
+* Gantt charts, Flow chart of the program, and ER diagrams
+* drawcircle inputfile outputfile
+
+===== 20110518
+* Work on pdbcircle class. Idenity minimal function that the other group will need. (draw a pdb onto a canvas, save to a file, change parameters).
+* Finish up the GUI and link with the drawcircle code.
+
+===== 20110404
+* No meeting, but email.
+
+===== 20110427
+
+Gavin & Henry:
+-	 Finish up tmalign_getsse().
+-  Start working on gtk GUI.
+
+Brian & Ethan:
+- Draw arcs.
+- Place labels outside.
+- Rewrite the code and write pdbcircle class. Use code in parsepdb_test to get neighbors and labels.
+<code>
+ptndb__::DATADIR=".,../data,../../data,d:/data/ptn/pdb";
+ptndb__ db;
+db.loadpdb(file);
+ptn_ *p;
+ptndb__pdbiter_ pdbiter=db.getpdbiter();
+ptndb__iter_ piter=pdbiter.data()->getiter();
+p=piter.data();
+vector<pairdisttuple_> pairs=ptn_getcontactpairs(p,p,*p->len,*p->len,50,1);
+
+</code>
+
+===== 20110420
+
+Gavin & Henry:
+-	 Implement tmalign_getsse()
+
+Brian & Ethan:
+- Rewrite the code and write pdbcircle class. Use code in parsepdb_test to get neighbors and labels.
+
+===== 20110413
+
+Gavin & Henry:
+* getneighbors()
+* map 3letter amino acid codes to single letter codes.
+* vector<float> phi, vector<float> psi angles.
+
+Brian & Ethan:
+* Draw arbitrary text
+* Load pdb and draw its residue names.
+* Draw straight lines connecting neighbors.
+
+===== 20110406
+
+Gavin & Henry:
+* write function to extract CA atoms and residue names (CYS, TYR, ALA)
+
+Brian & Ethan:
+* Draw an open circle using Cairo with N points marked.
+
+
+===== 20110330
+Gavin & Henry:
+* Parse 1crn.pdb file and print CA atom coordinates.
+* Commit: hh/cc vcxproj sln
+
+Brian & Ethan:
+* Draw a circle using Cairo.
+* Commit: hh/cc vcxproj sln
+

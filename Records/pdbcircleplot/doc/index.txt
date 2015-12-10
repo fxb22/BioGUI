@@ -1,0 +1,7 @@
+====== BioGUI project
+
+Enter a PDB name below to view its circle-plot:
+{{bmed>pdbcircleplot}}
+
+-----
+{{ajaxinclude>.:todo noajax}}

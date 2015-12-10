@@ -1,0 +1,1080 @@
+﻿bioconcepts_bioconcepts_child	children	children links	children links	5000
+bioconcepts_bioconcepts_parent	parent	parent links	parent links	5000
+bioconcepts_bioconcepts_sibling	sibling	sibling links	sibling links	5000
+bioconcepts_bioterms	bioterms	bioterms	Links to bioterms	5000
+bioconcepts_gene	Gene	Gene	Links to Gene	5000
+bioconcepts_mesh	MeSH	MeSH links	MeSH links	5000
+bioconcepts_omim	OMIM	OMIM links	OMIM links	5000
+bioconcepts_pubmed_genereviews	pubmed	pubmed	Links to pubmed	5000
+bioconcepts_pubmedhealth_adam_diagproc	A.D.A.M. Diagnostic Procedure articles	A.D.A.M. Diagnostic Procedure articles	A.D.A.M. Diagnostic Procedure articles related to UMLS Concept ID	5000
+bioconcepts_pubmedhealth_adam_disease	A.D.A.M. Disease or Syndrome articles	A.D.A.M. Disease or Syndrome articles	A.D.A.M. Disease or Syndrome articles related to UMLS Concept ID	5000
+bioconcepts_pubmedhealth_adam_food	A.D.A.M. Food articles	A.D.A.M. Food articles	A.D.A.M. Food articles related to UMLS Concept ID	5000
+bioconcepts_pubmedhealth_adam_injury	A.D.A.M. Injury or Poisoning articles	A.D.A.M. Injury or Poisoning articles	A.D.A.M. Injury or Poisoning articles related to UMLS Concept ID	5000
+bioconcepts_pubmedhealth_adam_symptom	A.D.A.M. Sign or Symptom articles	A.D.A.M. Sign or Symptom articles	A.D.A.M. Sign or Symptom articles related to UMLS Concept ID	5000
+bioconcepts_pubmedhealth_adam_theraproc	A.D.A.M. Therapeutic or Prventive Procedure articles	A.D.A.M. Therapeutic or Prventive Procedure articles	A.D.A.M. Therapeutic or Prventive Procedure articles related to UMLS Concept ID	5000
+bioconceptspreview_bioconceptspreview_child	children	children links	children links	5000
+bioconceptspreview_bioconceptspreview_parent	parent	parent links	parent links	5000
+bioconceptspreview_bioconceptspreview_sibling	sibling	sibling links	sibling links	5000
+bioconceptspreview_biotermspreview	bioterms	bioterms	Links to bioterms	5000
+bioconceptspreview_mesh	MeSH	MeSH links	MeSH links	5000
+bioconceptspreview_omim	OMIM	OMIM links	OMIM links	5000
+bioproject_nucest_est	EST	EST Links	Related EST	5000
+biosample_gap	dbGap	dbGap Links	Links to dbGap Studies	5000
+biosample_gds	GDS	GEO DataSets links	GEO DataSets links	5000
+biosample_genome	Genome Project	Genome Project Links	Related Genome Project records	5000
+biosample_genomeprj	GenomePrj terms	Genome Project links	Genome Project links	5000
+biosample_nuccore	Nucleotide	Nucleotide links	Nucleotide links	5000
+biosample_nucest	EST	EST Links	EST links	5000
+biosample_nucgss	GSS	GSS Links	GSS links	5000
+biosample_pubmed	PubMed	PubMed Links	PubMed links	5000
+biosample_snp	SNP	SNP Links	Related SNP record	5000
+biosample_sra	SRA	SRA Links	Links to SRA experiments	5000
+biosample_taxonomy	Taxonomy	Taxonomy Links	Links to Taxonomy	5000
+biosystems_biosystems_conserved	Conserved BioSystems	Conserved BioSystems	The conserved biosystem, if one is available, that corresponds to an organism specific biosystem. Conserved biosystems are canonical biosystems that are used to group together orthologous, organism specific biosystems.	5000
+biosystems_biosystems_linked	Linked BioSystems	Linked BioSystems	Biosystems that the source database has explicitly stated are connected in some way.	5000
+biosystems_biosystems_similar	Similar BioSystems	Similar BioSystems	Biosystems share at least one identical protein sequence from the same source organism.  In other words, the shared protein is in the same protein identity group ("PIG," a group of proteins that are identical in sequence) and has the same Taxonomy ID.	5000
+biosystems_biosystems_specific	Organism Specific BioSystems	Organism Specific BioSystems	The organism specific biosystems that correspond to a conserved biosystem, as determined by the source database.	5000
+biosystems_biosystems_sub	Subset BioSystems	Subset BioSystems	Biosystems that are one node below the one currently being viewed, according to a hierarchical organization used by the source database.	5000
+biosystems_biosystems_super	Superset BioSystems	Superset BioSystems	Biosystems that are one node above the one currently being viewed, according to a hierarchical organization used by the source database.	5000
+biosystems_cdd_specific	Conserved Domains	Conserved Domains	Conserved domains that are specific hits to the proteins involved in biosystems, representing high confidence functional annotations. The association between the proteins and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_gene	Genes	Genes	Genes involved in biosystems. The association between the genes and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_homologene	Homologene	Homologene	HomoloGene records that are linked to the proteins involved in the biosystem.  The HomoloGene records list putative orthologs of the genes that coded the proteins. The association between proteins and biosystems was made using the method descibed in the data processing section of the BioSystems help document.	5000
+biosystems_nuccore	Nucleotides	Nucleotides	Nucleotides	5000
+biosystems_omim	OMIM	OMIM	Records from the Online Mendelian Inheritance in Man (OMIM) database that are linked to the Entrez Gene records associated with a BioSystem.  The association between genes and biosystems was made using the method descibed in the data processing section of the BioSystems help document.	5000
+biosystems_pcassay_active	BioAssays via Actives	BioAssays via Actives	BioAssays in which compounds from biosystems have been found to be active. The association between the compounds and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_pcassay_target	BioAssays via Target	BioAssays via Target	BioAssays whose protein targets are involved in biosystems. The association between the proteins and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_pccompound	PubChem Compounds	PubChem Compounds	Compounds involved in biosystems.  The association between the compounds and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_pcsubstance	PubChem Substances	PubChem Substances	Substances involved in biosystems. The association between the substances and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_protein	Proteins	Proteins	Proteins involved in biosystems. The association between the proteins and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_proteinclusters	Protein Clusters	Protein Clusters	Protein Clusters database records that are linked to the proteins involved in the biosystem. The association between the proteins and biosystems was made using the method described in the data processing section of the BioSystems help document.  The Protein Clusters database contains both curated and uncurated clusters of proteins (from four major groups: prokaryotes, bacteriophages and the mitochondrial and chloroplast organelles) that are grouped by sequence similarity.	5000
+biosystems_pubmed	PubMed	PubMed	PubMed articles describing biosystems.  These are PubMed records whose PMIDs were explicitly cited in the source database biosystem record.	5000
+biosystems_structure	Structures	Structures	3D macromolecular structures of proteins involved in biosystems. The association between the proteins and biosystems was made using the method described in the data processing section of the BioSystems help document.	5000
+biosystems_taxonomy	Taxonomy	Taxonomy	The source organisms of the biosytems, whose Taxonomy IDs were provided in the biosystem records deposited by the source database. For additional information, see the data processing/taxonomy section of the BioSystems help document.	5000
+bioterms_bioconcepts	BioConcepts	BioConcepts links	BioConcepts links	5000
+bioterms_bioterms	other terms	other terms links	other terms links	5000
+bioterms_bioterms_child	children	children links	children links	5000
+bioterms_bioterms_parent	parent	parent links	parent links	5000
+bioterms_bioterms_sibling	sibling	sibling links	sibling links	5000
+bioterms_mesh	MeSH	MeSH links	MeSH links	5000
+bioterms_omim	OMIM	OMIM links	OMIM links	5000
+biotermspreview_bioconceptspreview	BioConcepts	BioConcepts links	BioConcepts links	5000
+biotermspreview_biotermspreview	other terms	other terms links	other terms links	5000
+biotermspreview_biotermspreview_child	children	children links	children links	5000
+biotermspreview_biotermspreview_parent	parent	parent links	parent links	5000
+biotermspreview_biotermspreview_sibling	sibling	sibling links	sibling links	5000
+biotermspreview_mesh	MeSH	MeSH links	MeSH links	5000
+biotermspreview_omim	OMIM	OMIM links	OMIM links	5000
+blastdbinfo_genomeprj	Genome Project	Genome Project Links	Link from BlastInfo to Genome Project	5000
+blastdbinfo_pubmed	Pubmed	Pubmed Links	Link from BlastInfo to Pubmed	5000
+blastdbinfo_taxonomy	Taxonomy	Taxonomy Links	Link from BlastInfo to Taxonomy	5000
+blastdbinfo_internal_genomeprj	Genome Project	Genome Project Links	Link from BlastInfo_Internal to Genome Project	5000
+blastdbinfo_internal_pubmed	Pubmed	Pubmed Links	Link from BlastInfo_Internal to Pubmed	5000
+blastdbinfo_internal_taxonomy	Taxonomy	Taxonomy Links	Link from BlastInfo_Internal to Taxonomy	5000
+books_gene	Genes	Gene Links	Gene records cited in chapters on the NCBI bookshelf. Links are provided by the authors or the NCBI Bookshelf staff.	10000
+books_omim	OMIM	OMIM Links	Related OMIM records	10000
+books_pcsubstance	Substance	Substance Links	Related PubChem Substances	5000
+books_pmc_refs	PMC	PMC Links	PubMed Central citations	10000
+books_pubmed_refs	PubMed	PubMed Links	Links to pubmed	10000
+cancerchromosomes_cancerchromosomes_casecell	View Clone(s)/Cell for Case(s)	View Clones/Cells for Case(s)	View Clone(s)/Cell for Case(s)	10000
+cancerchromosomes_cancerchromosomes_cellcase	View Cases for Clone(s)/Cell	View Cases for Clone(s)/Cell(s)	View Cases for Clone(s)/Cell	10000
+cancerchromosomes_cancerchromosomes_cytocgh	Related by CGH	Related by CGH	Related by CGH	10000
+cancerchromosomes_cancerchromosomes_cytoclincgh	Related by CGH and Text	Related by CGH and Text	Related by CGH and Text	10000
+cancerchromosomes_cancerchromosomes_cytoclinsky	Related Karyotypically and Text	Related Karyotypically and Text	Related Karyotypically and Text	10000
+cancerchromosomes_cancerchromosomes_cytodiagcgh	Related by CGH and Diag/Site	Related by CGH and Diag/Site	Related by CGH and Diag/Site	10000
+cancerchromosomes_cancerchromosomes_cytodiagsky	Related Karyotypically and Diag/Site	Related Karyotypically and Diag/Site	Related Karyotypically and Diag/Site	10000
+cancerchromosomes_cancerchromosomes_cytosky	Related by Karyotypes	Related by Karyotypes	Related by Karyotypes	10000
+cancerchromosomes_cancerchromosomes_diag	Related by Diagnosis/Site	Related by Diagnosis/Site	Related by Diagnosis/Site	10000
+cancerchromosomes_cancerchromosomes_textual	Related by All Text	Related by All Text	Related by All Text	10000
+cancerchromosomes_pmc	Full text in PMC	PMC Links	PMC links	5000
+cancerchromosomes_pubmed	PubMed	PubMed Links	Referenced PubMed Article	10000
+cdd_biosystems_specific	BioSystems	BioSystems	BioSystems	5000
+cdd_cdd_related	Superfamily Members	Superfamily Member Links	Link to related conserved domains	10000
+cdd_cdd_superfamily_2	Superfamily	Superfamily Links	Link to superfamily domains	5000
+cdd_gene	Gene	Gene Links	Related Gene	500
+cdd_homologene	HomoloGene	HomoloGene Links	Related Homologene	10000
+cdd_pcassay_protein_target	BioAssay via Protein Target	BioAssay via Protein Target	BioAssay via Protein Target	5000
+cdd_pmc	Free in PMC	PMC Links	Free full text articles in PMC	10000
+cdd_protein	Protein	Protein Links	Link to proteins containing a conserved domain	5000
+cdd_protein_summary	Architecture	-	Display architectures of proteins containing a conserved domain	5000
+cdd_protein	Protein	Protein Links	Link to proteins containing a conserved domain	500
+cdd_protein_summary	Architecture	-	Display architectures of proteins containing a conserved domain	1000
+cdd_protein_specific_2	Specific Protein	Specific Protein Links	Link to proteins within a conserved domain family	5000
+cdd_pubmed	PubMed	PubMed Links	PubMed reference from CDD entry, collected by the CDD source databases.	10000
+cdd_structure	Structure	Structure Links	Structures annotated with conserved domains	10000
+cdd_structure_family_2	Family Structures	Family Structure Links	Structures within a conserved domain family	5000
+cdd_taxonomy	Taxonomy	Taxonomy Links	Link to related taxonomy entry	10000
+cdd_unigene	UniGene	UniGene Links	Related UniGene	10000
+clonelib_nucleotide	Nucleotide	Nucleotide Links	Related Nucleotide entry	5000
+dbvar_gap	dbGaP	dbGaP Links	Link from dbVar to dbGaP	5000
+dbvar_gds	GEO DataSets	GEO DataSets Links	Link from dbVar to GEO DataSets	5000
+dbvar_gene	Gene	Gene Links	Link from dbVar to Gene	5000
+dbvar_genomeprj	Genome Projects	Genome Projects Links	Link from dbVar to Genome Projects	5000
+dbvar_geo	GEO	GEO Links	Link from dbVar to GEO	5000
+dbvar_nuccore	Nucleotide	Nucleotide Links	Link from dbVar to Nucleotide	5000
+dbvar_omim	OMIM	OMIM Links	Link from dbVar to OMIM	5000
+dbvar_pubmed	PubMed	PubMed Links	Link from dbVar to PubMed	5000
+dbvar_snp	dbSNP	dbSNP Links	Link from dbVar to dbSNP	5000
+dbvar_sra	SRA	SRA Links	Link from dbVar to SRA	5000
+dbvar_taxonomy	Taxonomy	Taxonomy Links	Link from dbVar to Taxonomy	5000
+domains_domains_new	3D Domain Neighbors	3D Domain Neighbors	3D Domain Neighbors	5000
+domains_domains_new	3D Domain Neighbors	3D Domain Neighbors	3D Domain Neighbors	1000
+domains_pmc	Full text in PMC	PMC Links	PMC links	5000
+domains_protein	Protein	Protein Links	Proteins associated with a domain	10000
+domains_pubmed	PubMed	PubMed Links	PubMed citation referenced in MMDB record, Molecular Modeling Database (NCBI’s 3D Structure database), retrieved via the Structure database.	10000
+domains_structure	Structure	Structure Links	Structures associated with a domain	10000
+domains_taxonomy	Taxonomy	Taxonomy Links	Organisms associated with a domain	10000
+domains_vast	VAST	-	VAST links	5000
+domains_vast	Related Structures	-	VAST links	10000
+epigenomics_epigenomics	Related Epigenomics	Related Epigenomics	Related Epigenomics records	5000
+epigenomics_gds	GEO DataSets	GEO DataSet links	GEO DataSet links	5000
+epigenomics_genomeprj	Genome Project	Genome Project Links	Related Genome Project records	5000
+epigenomics_pubmed	PubMed	PubMed Links	Related PubMed records	5000
+epigenomics_pubmed_experiment	PubMed	PubMed	Links to PubMed articles	5000
+epigenomics_pubmed_sample	PubMed	PubMed	Links to PubMed articles	5000
+epigenomics_pubmed_study	PubMed	PubMed	Links to PubMed articles	5000
+epigenomics_taxonomy	Taxonomy	Taxonomy Links	Related Taxonomy records	5000
+gap_biosample	BioSample	BioSample Links	BioSample links	5000
+gap_gene	Gene	Gene Links	Gene Links	5000
+gap_genomeprj	Genome Project Links	Genome Project Links	Genome Project Links	5000
+gap_pubmed	PubMed	PubMed Links	Related PubMed article	5000
+gap_snp	SNP	SNP Links	SNP Links	5000
+gap_sra	SRA	SRA Links	Links to Short Read Archive Experiments	5000
+gds_biosample	BioSample	BioSample links	BioSample links	5000
+gds_dbvar	dbVar	dbVar Links	Link from GEO DataSets to dbVar	5000
+gds_epigenomics	Epigenomics	Epigenomics Links	Related Epigenomics records	5000
+gds_gds	GEO DataSets	Related DataSets	Links DataSets (GDS) that share a common Platform (GPL) or a common Series (GSE) record.
+  	10000
+gds_genomeprj	Genome Project	Genome Project Links	Genome Project links	5000
+gds_geo	-	GEO Profile Links	Links a DataSet (GDS) to all its corresponding gene profiles in the ‘GEO Profiles’ database	5000
+gds_geo_url	GEO Profiles	-	Links to geo	5000
+gds_geo	-	GEO Profile Links	Related GEO	500
+gds_geo_url	GEO Profiles	-	Links to geo	5000
+gds_geoprofiles	-	GEO Profile Links	Links a DataSet (GDS) to all its corresponding gene profiles in the ‘geo’ database	10000
+gds_geoprofiles_url	GEO Profiles	-	Links to geo	5000
+gds_pmc	Full text in PMC	PMC Links	PMC links	5000
+gds_pubmed	PubMed	PubMed Links	Links to PubMed are derived from the PubMed identifier referenced in the original Platform (GPL) and/or Series (GSE) records.
+  	10000
+gds_sra	SRA	SRA Links	Links to Short Read Archive Experiments	5000
+gds_taxonomy	Taxonomy	Taxonomy Links	Links to corresponding organism(s) within the taxonomy database are derived from the taxon identifiers referenced in the original Platform (GPL) and Sample (GSM) records.
+  	10000
+gene_biosystems	BioSystems	BioSystem Links	BioSystems	5000
+gene_books	Books	Books Links	Links between Entrez Gene and  'Books' are established if a GeneID is explicitly referenced in a book.	10000
+gene_ccds	CCDS	ccds	Links from Gene to CCDS are established if a gene encodes a protein sequence that is a member of a Consensus CDS (CCDS).	5000
+gene_cdd	Conserved Domains	Conserved Domain Links	Conserved Domain Database
+gene_gap	GAP	GAP Links	GAP Links	5000
+gene_genome	Genome	Genome Links	Genome records having the gene annotated on corresponding genomic reference sequence.	5000
+gene_genomeprj	Related Genome Projects	Related Genome Projects	Genome projects related to a gene	5000
+gene_gensat	GENSAT	GENSAT Links	Links between GENSAT and Gene are established if the accession.version (gi) of a probe used for an expression study is associated with a record in Gene.	10000
+gene_geo	GEO Profiles	GEO Profile Links	Links between GEO Profiles and Gene are established if the accession.version (gi) of a probe in an array is associated with a record in Gene	10000
+gene_geoprofiles	GEO Profiles	GEO Profile Links	Related GEO	10000
+gene_homologene	HomoloGene	HomoloGene Links	Links between HomoloGene and Gene are provided by the HomoloGene group when a gene is included in a HomoloGene record.	10000
+gene_mapview	Map Viewer	-	These links are maintained by the Map Viewer group and are provided when a GeneID is annotated on a map for the same species.	10000
+gene_nuccore	Nucleotide	Nucleotide Links	Link to related Nucleotide entry	10000
+gene_nuccore_mgc	-	Nucleotide NIH cDNA clone links	Nucleotide NIH cDNA clone	10000
+gene_nuccore_refseqgene	RefSeqGene	RefSeqGene Links	Link to Nucleotide RefSeqGenes	5000
+gene_nuccore_refseqrna	RefSeq RNAs	RefSeq RNA Links	Link to Nucleotide RefSeq RNAs	5000
+gene_nucest	EST	EST Links	Link to related EST entry	10000
+gene_nucest_mgc	-	EST NIH cDNA clone links	EST NIH cDNA clone	10000
+gene_nucest_clust	-	-	-	5000
+gene_nucgss	GSS	GSS Links	Link to related GSS entry	10000
+gene_nucgss_mgc	-	GSS NIH cDNA clone links	GSS NIH cDNA clone	10000
+gene_nucleotide_mgc_url	Order cDNA clone	-	Order cDNA clone	5000
+gene_omia	OMIA	OMIA Links	Related OMIA articles	10000
+gene_omim	OMIM	OMIM Links	Links between OMIM and Gene are calculated by Gene based on MIM numbers included in the summary and phenotype sections of the Gene record.	10000
+gene_pcassay	BioAssay	BioAssay Links	Related PubChem BioAssays	5000
+gene_pcassay_target	BioAssay, by Gene target	BioAssay, by Gene target	PubChem BioAssays done on the Gene target	5000
+gene_pcassay_target_active	BioAssays, Gene target, Active	BioAssay by Gene target, Active	BioAssays, Gene target, Active	5000
+gene_pccompound	PubChem Compound	PubChem Compound Links	PubChem Compounds	5000
+gene_pcsubstance	PubChem Substance	PubChem Substance Links	PubChem Substances	5000
+gene_pepdome	Peptidome	Peptidome Links	Related Peptidome links	5000
+gene_pmc	Full text in PMC	PMC Links	PMC links	5000
+gene_probe	Probe	Probe Links	Related Probe entry	10000
+gene_protein	Protein	Protein Links	Link to related protein entry	10000
+gene_protein_refseq	RefSeq Proteins	RefSeq Protein Links	Link to Protein RefSeqs	5000
+gene_proteinclusters	Protein Clusters	Protein Cluster Links	Related Protein Clusters	5000
+gene_pubmed	PubMed	PubMed Links	Links between Gene and PubMed are the result of the following: 
+gene_pubmed_rif	PubMed (GeneRIF)	PubMed (GeneRIF) Links	GeneRIF -- Gene Reference Into Function
+gene_pubmed_citedinomim	PubMed (OMIM)	PubMed (OMIM) Links	Links are provided when Gene has a link to a record in OMIM, and OMIM explicitly cites these publications in PubMed.	5000
+gene_snp	SNP	SNP Links	Related SNP records	10000
+gene_snp_genegenotype	Gene Genotype	Gene Genotype Links	Gene Genotype Report	10000
+gene_snp_geneview	GeneView in dbSNP	-	SNPs linked from GeneView	10000
+gene_snp_clin	SNP	SNP	Related Clinical SNP	5000
+gene_snp_clin	SNP VarView	SNP Clinical	Related Clinical SNP	5000
+gene_sra	SRA	SRA Links	Links to Short Read Archive Experiments	5000
+gene_taxonomy	Taxonomy	Taxonomy Links	Link to related taxonomy entry	10000
+gene_unigene	UniGene	UniGene Links	Links are provided between Gene and UniGene when both databases calculate links to the same mRNA record (gi).	10000
+gene_unists	UniSTS	UniSTS Links	Related UniSTS records	10000
+genetests_omim	OMIM	OMIM Links	Link to OMIM	5000
+genome_assembly	TraceAssembly	-	Link to TraceAssembly for this gi	5000
+genome_biosample	BioSample	BioSample Links	BioSample links	5000
+genome_gene	Gene	Gene Links	Links from a genome record to related genes	5000
+genome_genomeprj	Genome Project	Genome Project Links	Related Genome Projects	10000
+genome_nuccore	Assembly	Assembly	Constituent nucleotide sequence	10000
+genome_nuccore_comp	Components	Component Links	Links to components in nucleotide database	10000
+genome_nuccore_mrna	mRNA	mRNA Links	Links to Mrna in nucleotide database	10000
+genome_nuccore_samespecies	Other genomes for species	Other genomes for species	Other (nearly) complete genomes or particular genomic segments for the species from DDBJ/EMBL/GenBank	5000
+genome_nuccore_samespecies	Other genomes for species	Other genomes for species	Other (nearly) complete genomes or particular genomic segments for the species from DDBJ/EMBL/GenBank	1000
+genome_nuccore_comp_mrna	Nucleotide mRNA	-	Links to Mrna in Nucleotide database	10000
+genome_nuccore_related	Related Genomes	Related Genome Links	A whole or partially related genomic sequence that may or may not be taxonomically related	5000
+genome_nucest_comp_mrna	EST mRNA	-	Links to Mrna in EST database	10000
+genome_nucgss_comp_mrna	GSS mRNA	-	Links to Mrna in GSS database	10000
+genome_nucleotide	Assembly	Assembly	Constituent nucleotide sequence	5000
+genome_nucleotide_comp	Components	Component Links	Links to components in nucleotide database	10000
+genome_nucleotide_mrna	mRNA	mRNA Links	Links to Mrna in nucleotide database	10000
+genome_nucleotide_samespecies	Other genomes for species	Other genomes	Other (nearly) complete genomes or particular genomic segments for the species from DDBJ/EMBL/GenBank	5000
+genome_nucleotide_byid	nucleotide	nucleotide	Links to nucleotide	5000
+genome_omim	OMIM	OMIM Links	OMIM records associated with genome sequence	10000
+genome_pmc	Free in PMC	PMC Links	Free full text articles in PMC	10000
+genome_nucleotide_comp_protein	Protein	-	Protein Links	10000
+genome_protein	Protein	Protein Links	Constituent protein sequence	10000
+genome_proteinclusters	Protein Clusters	Protein Cluster Links	Related Protein Clusters	5000
+genome_pubmed	PubMed	PubMed Links	PubMed articles cited by genome record	10000
+genome_sra	SRA	SRA Links	Links to Short Read Archive Experiments	5000
+genome_structure	Structure	Structure Links	Constituent 3D structure	10000
+genome_taxonomy	Taxonomy	Taxonomy Links	Taxonomy sequences associated with genome record	10000
+genome_trace	Traces	-	Link to related Traces	5000
+genomeprj_biosample	BioSample	BioSample links	BioSample links	5000
+genomeprj_epigenomics	Epigenomics	Epigenomics Links	Related Epigenomics records	5000
+genomeprj_gap	dbGaP Links	dbGaP Links	dbGaP Links	5000
+genomeprj_gds	GEO DataSets	GEO DataSet Links	GEO DataSet links	5000
+genomeprj_gene	Related Genes	Related Genes	Genes related to a genome project	5000
+genomeprj_genome	Genome	Genome Links	Related Genomes	10000
+genomeprj_genomeprj	Project	Project links	Links from project to related projects	10000
+genomeprj_nuccore	Nucleotide	Nucleotide Links	Related Nucleotide entry	10000
+genomeprj_nuccore_insdc	INSDC Nucleotide	INSDC Nucleotide Links	Related INSDC Nucleotide	5000
+genomeprj_nuccore_insdc_wgs	Nucleotide INSDC WGS Project	Nucleotide INSDC WGS Project Links	Related Nucleotide INSDC WGS Project	5000
+genomeprj_nuccore_mrna	Nucleotide mRNA	Nucleotide mRNA Links	Related Nucleotide mRNA	10000
+genomeprj_nuccore_organella	Nucleotide Organelle	Nucleotide Organelle Links	Related Nucleotide Organelle	10000
+genomeprj_nuccore_organelle_scaffold	Nucleotide Organelle Scaffolds	Nucleotide Organelle Scaffold Links	Related Nucleotide Organelle Scaffolds	5000
+genomeprj_nuccore_scaffold	Nucleotide Scaffolds	Nucleotide Scaffold Links	Related Nucleotide Scaffolds	5000
+genomeprj_nuccore_wgs	WGS Project	WGS Project Links	Related WGS Project entry	10000
+genomeprj_nuccore	Nucleotide	Nucleotide Links	Related Nucleotide entry	5000
+genomeprj_nuccore_mrna	mRNA	mRNA Links	mRNA related to Genome Projects	5000
+genomeprj_nucest_est	EST	EST Links	Related EST	5000
+genomeprj_nucest	EST	EST Links	Related ESTs	10000
+genomeprj_nucest_insdc	INSDC EST	INSDC EST Links	Related INSDC EST	5000
+genomeprj_nucest_insdc_wgs	EST INSDC WGS Project	EST INSDC WGS Project Links	Related EST INSDC WGS Project	5000
+genomeprj_nucest_mrna	EST mRNA	EST mRNA Links	Related EST mRNA	10000
+genomeprj_nucest_organella	EST Organelle	EST Organelle Links	Related EST Organelle	10000
+genomeprj_nucest_organelle_scaffold	EST Organelle Scaffolds	EST Organelle Scaffold Links	Related EST Organelle Scaffolds	5000
+genomeprj_nucest_scaffold	EST Scaffolds	EST Scaffold Links	Related EST Scaffolds	5000
+genomeprj_nucest_wgs	EST WGS Project	EST WGS Project Links	Related EST WGS Projects	10000
+genomeprj_nucgss	GSS	GSS Links	Related GSS entry	10000
+genomeprj_nucgss_insdc	INSDC GSS	INSDC GSS Links	Related INSDC GSS	5000
+genomeprj_nucgss_insdc_wgs	GSS INSDC WGS Project	GSS INSDC WGS Project Links	Related GSS INSDC WGS Project	5000
+genomeprj_nucgss_mrna	GSS mRNA	GSS mRNA Links	Related GSS mRNA	10000
+genomeprj_nucgss_organella	GSS Organelle	GSS Organelle Links	Related GSS Organelle	10000
+genomeprj_nucgss_organelle_scaffold	GSS Organelle Scaffolds	GSS Organelle Scaffold Links	Related GSS Organelle Scaffolds	5000
+genomeprj_nucgss_scaffold	GSS Scaffolds	GSS Scaffold Links	Related GSS Scaffolds	5000
+genomeprj_nucgss_wgs	GSS WGS Project	GSS WGS Project Links	Related GSS WGS Projects	10000
+genomeprj_nucgss	GSS	GSS Links	Related GSS entry	5000
+genomeprj_pmc	Full text in PMC	PMC Links	PMC links	5000
+genomeprj_popset	PopSet	PopSet Links	Population sets for Genome Project	10000
+genomeprj_protein	Protein	Protein Links	Related Proteins	5000
+genomeprj_protein_insdc	INSDC Protein	INSDC Protein Links	Related INSDC WGS Project	5000
+genomeprj_protein	Protein	Protein Links	Related Proteins	10000
+genomeprj_pubmed	PubMed	PubMed Links	PubMed Links	10000
+genomeprj_sra	SRA	SRA Links	Links to Short Read Archive Experiments	5000
+genomeprj_taxonomy	Taxonomy	Taxonomy Links	Taxonomy Links	10000
+genomeprj_trace	Traces	-	Link to related Traces	5000
+gensat_gene	Gene	Gene Links	Related Gene	10000
+gensat_gensat	GENSAT	GENSAT Links	Links to gensat	10000
+gensat_geo	GEO Profiles	GEO Profiles	Related GEO records	10000
+gensat_geoprofiles	GEO Profiles	GEO Profiles	Related GEO records	10000
+gensat_nuccore	Nucleotide	Nucleotide Links	Links to Nucleotide	10000
+gensat_nucest	EST	EST Links	Links to EST	10000
+gensat_nucgss	GSS	GSS Links	Links to GSS	10000
+gensat_pmc	Full text in PMC	PMC Links	PMC links	5000
+gensat_pubmed	PubMed	PubMed Links	Related PubMed Article	10000
+gensat_taxonomy	Taxonomy	Taxonomy Links	Related Nucleotide	10000
+gensat_unigene	UniGene	UniGene Links	Related UniGene records	10000
+geo_gds	GEO DataSets	Related DataSets	Related GEO DataSets	10000
+geo_gene	Gene	Gene Links	based on gene annotation from platform probe accession 	10000
+geo_gensat	GENSAT	GENSAT Links	Related GENSAT records	10000
+geo_geo_homologs	Homologs	Homologs	GEO Homologs	50
+geo_geo_prof	Profile Neighbors	Profile Neighbors	pre-calculated neighbors based on Pearson correlation	5000
+geo_geo_seq	Sequence Neighbors	Sequence Neighbors	sequence similarity neighbors - based on Nucleotide neighbors.	50
+geo_geo_chr	Chromosome Neighbors	Chromosome Neighbors	pre-calculated neighbors based on chromosomal position 	5000
+geo_homologene	HomoloGene	HomoloGene Links	Related HomoloGene	10000
+geo_nuccore	Nucleotide	Nucleotide Links	Nucleotide sequences associated with GEO record	10000
+geo_nucest	EST	EST Links	EST sequences associated with GEO record	10000
+geo_nucgss	GSS	GSS Links	GSS sequences associated with GEO record	10000
+geo_omim	OMIM	OMIM Links	Related OMIM entry	10000
+geo_pmc	Free in PMC	PMC Links	Free full text articles in PMC	10000
+geo_pubmed	PubMed	PubMed Links	Articles associated with GEO record	10000
+geo_taxonomy	Taxonomy	Taxonomy Links	Taxonomy records associated with GEO record	10000
+geo_unigene	UniGene	UniGene Links	Related UniGene	10000
+geoprofiles_gds	GEO DataSets	Related DataSets	Related GEO DataSets	10000
+geoprofiles_gene	Gene	Gene Links	based on gene annotation from platform probe accessio 	10000
+geoprofiles_gensat	GENSAT	GENSAT Links	Related GENSAT records	10000
+geoprofiles_geoprofiles_chr	Chromosome Neighbors	Chromosome Neighbors	Chromosome Neighbors	5000
+geoprofiles_geoprofiles_homologs	Homologs	Homologs	GEO Homologs	50
+geoprofiles_geoprofiles_prof	Profile Neighbors	Profile Neighbors	pre-calculated neighbors based on Pearson correlation	5000
+geoprofiles_geoprofiles_seq	Sequence Neighbors	Sequence Neighbors	sequence similarity neighbors - based on Nucleotide neighbors.	50
+geoprofiles_homologene	HomoloGene	HomoloGene Links	pre-calculated neighbors based on chromosomal position	10000
+geoprofiles_nuccore	Nucleotide	Nucleotide Links	Nucleotide sequences associated with GEO Profile record	10000
+geoprofiles_nucest	EST	EST Links	EST sequences associated with GEO Profile record	10000
+geoprofiles_nucgss	GSS	GSS Links	GSS sequences associated with GEO Profile record	10000
+geoprofiles_nucleotide	Nucleotide	Nucleotide Links	Nucleotide sequences associated with GEO record	10000
+geoprofiles_omim	OMIM	OMIM Links	Related OMIM entry	10000
+geoprofiles_pmc	Free in PMC	PMC Links	Free full text articles in PMC	10000
+geoprofiles_pubmed	PubMed	PubMed Links	Articles associated with GEO record	10000
+geoprofiles_taxonomy	Taxonomy	Taxonomy Links	Taxonomy records associated with GEO record	10000
+geoprofiles_unigene	UniGene	UniGene Links	Related UniGene	10000
+homologene_biosystems	BioSystems	BioSystems	BioSystems	5000
+homologene_cdd	Conserved Domains	Conserved Domain Links	Related CDDs	10000
+homologene_gene	Gene	Gene Links	Related Genes	10000
+homologene_geo	GEO Profiles	GEO Profile Links	Related GEO	10000
+homologene_geoprofiles	GEO Profiles	GEO Profile Links	Related GEO	10000
+homologene_homologene	Related HomoloGene	Related HomoloGene Links	Related HomoloGene	10000
+homologene_nuccore	Nucleotide	Nucleotide Links	Related Nucleotide	10000
+homologene_nucest	EST	EST Links	Related EST	10000
+homologene_nucgss	GSS	GSS Links	Related GSS	10000
+homologene_omia	OMIA	OMIA Links	Related OMIA records	5000
+homologene_omim	OMIM	OMIM Links	Related OMIM	10000
+homologene_pmc	Full text in PMC	PMC Links	PMC links	5000
+homologene_protein	Protein	Protein Links	Related Protein	10000
+homologene_pubmed	PubMed	PubMed Links	Related PubMed Articles	10000
+homologene_snp	SNP	SNP Links	Related SNPs	10000
+homologene_snp_genegenotype	Gene Genotype	Gene Genotype Links	Gene Genotype Report	10000
+homologene_taxonomy	Taxonomy	Taxonomy Links	Related Taxonomy	10000
+homologene_unigene	UniGene	UniGene Links	Related UniGene	10000
+mapviewother_mapviewother	Neighbors	Neighbors	MapViewOther Neighbors	10000
+mesh_pccompound	PubChem Compound	PubChem Compound Links	Related PubChem Compound with MeSH	10000
+mesh_pcsubstance	PubChem Substance	PubChem Substance Links	Related PubChem Substance with MeSH	10000
+mesh_taxonomy	Taxonomy	Taxonomy Links	Link to organism in taxonomy database.	5000
+ncbisearch_ncbisearch	Related sites	Related sites	Related sites links to other NCBI web pages that link to the current page and includes pages that the current site links to.	10000
+nlmcatalog_nlmcatalog	Related Records in Catalog	Related Records in Catalog	Related NLM Catalog records generated by matching text and MeSH terms.	500
+nlmcatalog_pubmed	PubMed	PubMed Links	Journals referenced in PubMed	5000
+nuccore_assembly	Trace Assembly	-	Corresponding assembly of the individual sequence traces from the Trace Assembly Archive for the current sequence records. The assembly is available as a graphical display of the trace components.	10000
+nuccore_biosample	BioSample	BioSample links	BioSample links	5000
+nuccore_biosystems	BioSystems	BioSystem Links	BioSystems	5000
+nuccore_dbvar	dbVar	dbVar	Genomic structural variation (dbVar) records that refer to the current nucleotide sequence records.	5000
+nuccore_gene	Gene	Gene Links	Gene records referencing the current sequence records. Sequences included in Gene are added manually by NCBI.	10000
+nuccore_genome	Genome	Genome	Genome records related to the current sequence records. Genome records may be linked to the components of assembled genome and from single record submissions representing complete genomic molecules such as chromosomes, organelle genomes, and plasmids.	10000
+nuccore_genome_comp	Components to Genome	Components to Genome	The genome assemblies that comprise the smaller nucleotide records in the current set.	10000
+nuccore_genome_mrna	mRNA to Genome	mRNA to Genome	Genome records that have the current mRNA records as annotated features. The mRNAs are aligned or predicted transcripts of these Genome records.	10000
+nuccore_genome_samespecies	RefSeq Genome for Species	RefSeq genome for species	Reference genome records for the same species as the current nucleotide genomic records. These genomes represent a single version for multiple variable sequences of the same genomic molecule, most commonly viral and organelle genomes.	10000
+nuccore_mrna_comp_genome	Genome	-	Genome record referencing this mRNA	10000
+nuccore_genome_related	Related Genomes	Related Genome Links	Genome records that are similar in sequence to the current nucleotide records. While these are usually from related organisms, they may be from more distantly related species or strains in cases of transferable molecules such as bacterial plasmids.	5000
+nuccore_genomeprj	Genome projects	Genome Project Links	Genome projects that are the sources of current sequence records. These sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nuccore_wgs_genomeprj	WGS Genome Project	WGS Genome Project Links	Genome projects that are the sources of whole genome shotgun sequence records in the current set. These sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nuccore_genomeprj_insdc	INSDC Genome Project	INSDC Nucleotide Genome Project Links	Genome projects that are the sources for finished genome sequence records from the International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) in the current set. These sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nuccore_genomeprj_insdc_wgs	INSDC WGS Genome Project	INSDC WGS Genome Projects Links	Genome projects for whole genome shotgun sequence records from from the International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) in the current set. These do not include links from Reference Sequence draft assemblies. Genome project sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nuccore_genomeprj_organelle_scaffold	Organelle Scaffold Genome Project	Genome Project Organelle Scaffold Links	Genome projects for partially assembled organelle genome sequence records in the current set. These are typically linked from scaffold records from mitochondrial and plastid genomes. Genome project sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nuccore_genomeprj_scaffold	Genome Project	Genome Project Nucleotide Scaffold Links	Related Genome Projects	5000
+nuccore_mrna_genomeprj	Genome projects	-	Related Genome Project	10000
+nuccore_organella_genomeprj	Organelle Genome Project	-	Genome projects that are sources for complete organelle genome sequence records in the current set. These sources may be single species or strains or may be environmental genome projects (metagenomes).	10000
+nuccore_genomeprj	Genome project	Genome Project Links	Genome projects that are the sources for nucleotide records in the current set. These sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nuccore_genomeprj_mrna	mRNA Genome Project	mRNA Genome Project Links	Genome projects for genome records that have the current mRNA records as annotated features marking the exons of genes. These genome project sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nuccore_gensat	GENSAT	GENSAT Links	Gensat records that use the mRNAs or genes corresponding to the current records as probes or reporter constructs in mouse brain histology imaging.	10000
+nuccore_geo	GEO Profiles	GEO Profile Links	GEO expression profiles that use the sequence corresponding to the current nucleotide records as probes in microarray experiments.	10000
+nuccore_geoprofiles	GEO Profiles	GEO Profiles Links	GEO Profile records associated with Nucleotide record	10000
+nuccore_homologene	HomoloGene	HomoloGene Links	Homologene clusters that contain the current RefSeq transcript sequences.	10000
+nuccore_mapview	Map Viewer	-	Graphical Map Viewer display of the current nucleotide records in assembled genomes. Records may be part of the assembly or mapped as alignment-based annotation.	10000
+nuccore_comp_nuccore	Assembly	Assembly	Assembled nucleotide records constructed from the current component sequences (whole genome shotgun, genomic scaffolds, and BAC clone sequences).	10000
+nuccore_mrna_nuccore	Master	-	Genomic sequence records that have the current mRNA records as annotated features marking the exons of genes.	10000
+nuccore_nuccore	Related Sequences	Related Sequences	Nucleotide sequences related by sequence similarity (BLAST) score to the current records.	1000
+nuccore_nuccore_comp	Components (Core)	Component(Core) Links	Nucleotide records that are the components of the assembled sequence records in the current set.	10000
+nuccore_nuccore_mgc_refseq	Order cDNA clone	-	Order cDNA clone corresponding to Mammalian Gene Collection Reference Sequence records in the current set.	5000
+nuccore_nuccore_mrna	mRNA	mRNA Links	mRNA sequence records that are annotated on the current genomic nucleotide sequences. The mRNA records represent aligned or predicted transcripts of the current records.	10000
+nuccore_nuccore_samespecies_gbrs	RefSeq Genome Sequences	RefSeq nucleotide for species	NCBI Reference Sequence (RefSeq) genome record for the same species as the current International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) genomic records. These RefSeq genomes represent a single version for multiple variable sequences of the same genomic molecule, most commonly viral and organelle genomes.	5000
+nuccore_nuccore_samespecies_rsgb	Other INSDC Genome Sequences	Other nucleotides for species	Other nucleotide records for the same molecule in the same species for genome records in the current set. These are linked from the GenBank source record for the genome Reference Sequence. These linked records are available when there are multiple other records for the same genomic sequence in the database. Most commonly these are microbial, organelle, or viral genomes.	5000
+nuccore_nuccore_gbrs	Identical RefSeq	Identical RefSeq	NCBI Reference Sequence genomic records that are identical in sequence to records in the current set.	5000
+nuccore_nuccore_rsgb	Identical GenBank Sequence	Identical GenBank	Identical source nucleotide records to Reference Sequence assembled genomes in the current set.	5000
+nuccore_nuccore_comp_rs	RefSeq assembly	Assembly(RefSeq)	Reference Sequence genomic assemblies built from the International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) sequences in the current set.	5000
+nuccore_nuccore_rs_comp	Core components of RefSeq	Components(Core)	International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) records that are components of the assembled Reference Sequence records in the current set.	5000
+nuccore_nucest_comp	Components (EST)	Component(EST) Links	Expressed Sequence Tag (EST) records that are components of assembled nucleotide records in the current set.	10000
+nuccore_nucgss_comp	Components (GSS)	Component(GSS) Links	Genome Survey Sequence (GSS) records that are components of the assembled nucleotide records in the current set.	10000
+nuccore_nucleotide_comp	nucleotide	nucleotide	Nucleotide records that are the components of the assembled sequence records in the current set.	5000
+nuccore_nucleotide_mrna	nucleotide	nucleotide	mRNA sequence records that are annotated on the current genomic nucleotide sequences. The mRNA records represent aligned or predicted transcripts of the current records.	5000
+nuccore_omim	OMIM	OMIM Links	Online Mendelian Inheritance in Man articles that refer to nucleotide records in the current set.	10000
+nuccore_pcassay	BioAssay	BioAssay Links	BioAssay records that refer to nucleotide records in the current set.	10000
+nuccore_pcassay_dna_target	BioAssay by DNA target	BioAssay by DNA target	BioAssay records that target nucleotide records in the current set.	5000
+nuccore_pcassay_rna_target	BioAssay by RNA target	BioAssay by RNA Target	BioAssays that refer to records in the current set as mRNA targets.	5000
+nuccore_pccompound	PubChem Compound	PubChem Compound Links	PubChem compound records that cite the nucleotide records in the current set. These compound records are typically associated with nucleotide sequence through a molecular structure containing the both the nucleic acid and the PubChem small molecule.	10000
+nuccore_pcsubstance	PubChem Substance	PubChem Substance Links	PubChem substance records that cite the nucleotide records in the current set. These substance records may be associated with a nucleotide sequence through a molecular structure containing the both the nucleic acid and the PubChem small molecule or may be the target of the substance entry for an inhibitory RNA Bioassay.	10000
+nuccore_pmc	Full text in PMC	PMC Links	Free full-text articles in PubMed central that cite nucleotide records in the current set.	10000
+nuccore_popset	PopSet	PopSet Links	Population, ecosystem, or phylogenetic sets in the PopSet database that include records in the current set.	10000
+nuccore_probe	Probe	Probe Links	Probe database records for genotyping, gene expression, SNP discovery, genome mapping, and gene silencing reagents that target the genes and gene products associated with the current nucleotide sequence records.	10000
+nuccore_protein	Protein	protein	Protein translations of coding regions from sequence records in the current set.	5000
+nuccore_protein_wgs	Protein from WGS	-	Protein translations of coding regions from whole genome shotgun derived nucleotide sequences in the current set.	10000
+nuccore_protein	Protein	Protein Links	Protein translations of coding regions from sequence records in the current set.	5000
+nuccore_protein_mgc_url	Order cDNA Clone	-	Order cDNA clones corresponding to Mammalian Gene Collection records in the current set that include the complete protein coding region.	5000
+nuccore_protein_mat_peptide	Mature Peptides	Mature Peptides	Protein records for mature (processed) peptides annotated on nucleotide records in the current set.	5000
+nuccore_proteinclusters	Protein Clusters	Protein Cluster Links	Protein cluster records containing proteins derived from coding regions on Reference Sequence genomic records in the current set.	5000
+nuccore_pubmed	Pubmed	pubmed	PubMed articles that cite nucleotide records in the current set. These are articles that report the International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) data. These articles are also linked to Reference Sequences derived from these records.	5000
+nuccore_pubmed	PubMed	PubMed Links	PubMed articles that cite nucleotide records in the current set. These are articles that report the International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) data. These articles are also linked to Reference Sequences derived from these records.	5000
+nuccore_pubmed_weighted	PubMed (Weighted)	PubMed (Weighted) Links	PubMed articles associated with the current nucleotide records through the Gene database. These articles include Reference into Function, citations in related OMIM, and those associated with sequences in the Gene record.	5000
+nuccore_pubmed_refseq	PubMed (RefSeq)	PubMed (RefSeq) Links	PubMed articles that are cited in NCBI Reference Sequences in the present set.	5000
+nuccore_seqannot	SeqAnnot	SeqAnnot links	SeqAnnot links	5000
+nuccore_snp	SNP	SNP Links	Single nucleotide polymorphisms (SNPs) mapped to the current records. Links may be provided through SNP data submission or through annotations on the nucleotide record.	10000
+nuccore_snp_genegenotype	Gene Genotype	Gene Genotype Links	Genotype reports for single nucleotide polymorphisms (SNPs) associated with the current records.	10000
+nuccore_snp_geneview	GeneView in dbSNP	-	Geneview in dbSNP showing nucleotide polymorphisms (SNPs) mapped to the genes associated with the current records.	10000
+nuccore_sra	SRA	SRA Links	Sequence Read Archive (SRA) next generation sequencing data associated with the current records.	5000
+nuccore_sra_wgs	SRA WGS	SRA WGS	Sequence Read Archive (SRA) next generation sequencing data associated with the whole genome shotgun sequence records.	5000
+nuccore_structure	Structure	Structure Links	Three dimensional structure records that are the sources of the current nucleotide sequence records.	10000
+nuccore_taxonomy	Taxonomy	taxonomy	NCBI Taxonomy entries and classification information for the source organisms of the current set of records.	5000
+nuccore_taxonomy	Taxonomy	Taxonomy Links	NCBI Taxonomy entries and classification information for the source organisms of the current set of records.	5000
+nuccore_trace	Trace Archive	-	Trace archive capillary sequencing data supporting the current nucleotide records.	10000
+nuccore_unigene	UniGene	UniGene Links	UniGene clusters of expressed sequences that contain mRNA records in the current set.	10000
+nuccore_unists	UniSTS	UniSTS Links	Genetic, physical, and sequence mapping reagents in the UniSTS database mapped on the current nucleotide records.	10000
+nucest_assembly	TraceAssembly	-	(No records.)	10000
+nucest_bioproject_est	BioProject	BioProject Links	Related BioProjects	5000
+nucest_biosample	BioSample	BioSample Links	BioSample links	5000
+nucest_gene	Gene	Gene Links	Gene records that refer to the current EST sequence records. EST sequences included in Gene records come from the corresponding UniGene cluster.	10000
+nucest_gene_clust	-	-	(Not displayed.)	5000
+nucest_mrna_comp_genome	Genome	-	(No records.)	10000
+nucest_genomeprj_est	EST Genome Project	EST Genome Project Links	Genome projects that are the sources of current sequence records. These sources may be specific organism species or strains or may environmental genome projects (metagenomes).	5000
+nucest_genomeprj_insdc	INSDC EST Genome Project	INSDC EST Genome Project Links	(No records.)	5000
+nucest_genomeprj_insdc_wgs	INSDC WGS Genome Projects	INSDC WGS Genome Projects Links	(No records.)	5000
+nucest_genomeprj_organelle_scaffold	Organelle Scaffolds	Genome Project Organelle Scaffold Links	(No records.)	5000
+nucest_genomeprj_scaffold	Genome Project	Genome Project EST Scaffold Links	(No records.)	5000
+nucest_mrna_genomeprj	Genome Project	-	(No records.)	10000
+nucest_organella_genomeprj	Genome Project	-	(No records.)	10000
+nucest_wgs_genomeprj	Genome Project	-	(No records.)	10000
+nucest_gensat	GENSAT	GENSAT Links	Gensat records that use the mRNAs or genes corresponding to the current records as probes or reporter constructs in mouse brain histology imaging.	10000
+nucest_geo	GEO Profiles	GEO Profile Links	GEO expression profiles that use the sequence corresponding to the current EST records as probes in microarray experiments.	10000
+nucest_geoprofiles	GEO Profiles	GEO Profiles Links	GEO Profile records associated with EST record	10000
+nucest_homologene	HomoloGene	HomoloGene Links	(No records.)	10000
+nucest_mapview	Map Viewer	-	Graphical Map Viewer display of the current EST records aligned to assembled genomes.	10000
+nucest_comp_nuccore	Assembly	Assembly	Nucleotide records that are assembled from Expressed Sequence Tag (EST) records in the current set.	10000
+nucest_omim	OMIM	OMIM Links	Online Mendelian Inheritance in Man articles that refer to EST records in the current set.	10000
+nucest_pcassay	BioAssay	BioAssay Links	(No records.)	10000
+nucest_pcassay_dna_target	BioAssay by DNA Target	BioAssay by DNA target	(No records.)	5000
+nucest_pcassay_rna_target	BioAssay by RNA Target	BioAssay by RNA Target	(No records.)	5000
+nucest_pccompound	PubChem Compound	PubChem Compound Links	(No records.)	10000
+nucest_pcsubstance	PubChem Substance	PubChem Substance Links	(No records.)	10000
+nucest_pmc	Full text in PMC	PMC Links	Free full-text articles in PubMed central that cite EST records in the current set.	10000
+nucest_popset	PopSet	PopSet Links	(No records.)	10000
+nucest_probe	Probe	Probe Links	Probe database records for genotyping, gene expression, SNP discovery, genome mapping, and gene silencing that target the genes and gene products associated with the current EST records.	10000
+nucest_protein_mgc_url	Order cDNA clone	-	(No results.)	5000
+nucest_proteinclusters	Protein Clusters	Protein Cluster Links	(No records.)	5000
+nucest_pubmed	PubMed	pubmed	PubMed articles that report EST records in the current set.	5000
+nucest_pubmed	PubMed	PubMed Links	PubMed articles that report EST records in the current set.	5000
+nucest_pubmed_refseq	PubMed (RefSeq)	PubMed (RefSeq) Links	(No records.)	5000
+nucest_snp	SNP	SNP Links	(No records.)	10000
+nucest_snp_genegenotype	Gene Genotype	Gene Genotype Links	Genotype reports for single nucleotide polymorphisms (SNPs) associated with the current records.	10000
+nucest_snp_geneview	GeneView in dbSNP	-	Geneview in dbSNP showing nucleotide polymorphisms (SNPs) mapped to the genes associated with the current records.	10000
+nucest_structure	Structure	Structure Links	(No records.)	10000
+nucest_taxonomy	taxonomy	taxonomy	NCBI Taxonomy entries and classification information for the source organisms of the current set of records.	5000
+nucest_taxonomy	Taxonomy	Taxonomy Links	NCBI Taxonomy entries and classification information for the source organisms of the current set of records.	5000
+nucest_trace	Trace Archive	-	Trace archive capillary sequencing data supporting the current sequence records.	10000
+nucest_unigene	UniGene	UniGene Links	UniGene clusters of expressed sequences that contain records in the current set.	10000
+nucest_unists	UniSTS	UniSTS Links	Genetic, physical, and sequence mapping reagents in the UniSTS database mapped on the current EST records.	10000
+nucgss_assembly	TraceAssembly	-	(No records.)	10000
+nucgss_biosample	BioSample	BioSample Links	BioSample links	5000
+nucgss_gene	Gene	Gene Links	Gene records referencing the current sequence records. Sequences included in Gene records are added manually by NCBI.	10000
+nucgss_mrna_comp_genome	Genome	-	(No records.)	10000
+nucgss_genomeprj	Genome Project	Genome Project Links	Genome projects that are the sources of current sequence records. These sources may be single species or strains or may be environmental genome projects (metagenomes).	5000
+nucgss_genomeprj_insdc	INSDC GSS Genome Project	INSDC GSS Genome Project Links	(No records.)	5000
+nucgss_genomeprj_insdc_wgs	INSDC WGS Genome Projects	INSDC WGS Genome Projects Links	(No records.)	5000
+nucgss_genomeprj_organelle_scaffold	Organelle Scaffolds	Genome Project Organelle Scaffold Links	(No records.)	5000
+nucgss_genomeprj_scaffold	Genome Project	Genome Project GSS Scaffold Links	(No records.)	5000
+nucgss_mrna_genomeprj	Genome Project	-	(No records.)	10000
+nucgss_organella_genomeprj	Genome Project	-	(No records.)	10000
+nucgss_wgs_genomeprj	Genome Project	-	(No records.)	10000
+nucgss_genomeprj	Genome Project	Genome Project Links	Genome Projects generating the current Genome Survey Sequence (GSS) records.	5000
+nucgss_gensat	GENSAT	GENSAT Links	(No records.)	10000
+nucgss_geo	GEO Profiles	GEO Profile Links	GEO expression profiles that use the sequence corresponding to the current GSS records as probes or reporters in microarray experiments.	10000
+nucgss_geoprofiles	GEO Profiles	GEO Profiles Links	GEO Profile records associated with GSS record	10000
+nucgss_homologene	HomoloGene	HomoloGene Links	(No records.)	10000
+nucgss_mapview	Map Viewer	-	Graphical Map Viewer display of the current GSS records in assembled genomes. Records may be part of the assembly or mapped as alignment based annotation.	10000
+nucgss_comp_nuccore	Assembly	Assembly	Assembled nucleotide records constructed from the current component Genome Survey Sequence (GSS) records.	10000
+nucgss_omim	OMIM	OMIM Links	Online Mendelian Inheritance in Man articles that refer to GSS records in the current set.	10000
+nucgss_pcassay	BioAssay	BioAssay Links	(No records.)	10000
+nucgss_pcassay_dna_target	BioAssay by DNA Target	BioAssay by DNA target	(No records.)	5000
+nucgss_pcassay_rna_target	BioAssay by RNA Target	BioAssay by RNA Target	(No records.)	5000
+nucgss_pccompound	PubChem Compound	PubChem Compound Links	(No records.)	10000
+nucgss_pcsubstance	PubChem Substance	PubChem Substance Links	(No records.)	10000
+nucgss_pmc	Full text in PMC	PMC Links	Free full-text articles in PubMed central that cite GSS records in the current set.	10000
+nucgss_popset	PopSet	PopSet Links	(No records.)	10000
+nucgss_probe	Probe	Probe Links	Probe database records for genotyping, gene expression, SNP discovery, genome mapping, and gene silencing that target the genes and gene products associated with the current GSS records.	10000
+nucgss_protein	protein	protein	Protein translations of coding regions from sequence records in the current set.	5000
+nucgss_protein	Protein	Protein Links	Protein translations of coding regions from sequence records in the current set.	5000
+nucgss_protein_mgc_url	Order cDNA clone	-	(No records.)	5000
+nucgss_proteinclusters	Protein Clusters	Protein Cluster Links	(No records.)	5000
+nucgss_pubmed	PubMed	pubmed	PubMed articles that report GSS records in the current set.	5000
+nucgss_pubmed	PubMed	PubMed Links	PubMed articles that report GSS records in the current set.	5000
+nucgss_pubmed_refseq	PubMed (RefSeq)	PubMed (RefSeq) Links	(No records.)	5000
+nucgss_snp	SNP	SNP Links	Single nucleotide polymorphisms (SNPs) mapped to the current records. Links may be provided through SNP data submission or through annotations on the GSS record.	10000
+nucgss_snp_genegenotype	Gene Genotype	Gene Genotype Links	Genotype reports for single nucleotide polymorphisms (SNPs) associated with the current records.	10000
+nucgss_snp_geneview	GeneView in dbSNP	-	Geneview in dbSNP showing nucleotide polymorphisms (SNPs) mapped to the genes associated with the current records.	10000
+nucgss_snp_genegenotype	Gene Genotype	Gene Genotype Links	Genotype reports for single nucleotide polymorphisms (SNPs) associated with the current records.	10000
+nucgss_structure	Structure	Structure Links	(No records)	10000
+nucgss_taxonomy	taxonomy	taxonomy	NCBI Taxonomy entries and classification information for the source organisms of the current records.	5000
+nucgss_taxonomy	Taxonomy	Taxonomy Links	NCBI Taxonomy entries and classification information for the source organisms of the current records.	5000
+nucgss_trace	Trace Archive	-	Trace archive capillary sequencing data supporting the current sequence records.	10000
+nucgss_unigene	UniGene	UniGene Links	(No records.)	10000
+nucgss_unists	UniSTS	UniSTS Links	Genetic, physical, and sequence mapping reagents in the UniSTS database mapped on the current sequence records.	10000
+nucleotide_clonelib	CloneLibrary	CloneLibrary Links	Related CloneLibrary entry	5000
+nucleotide_gene_mgc	-	-	Order cDNA clones corresponding to Mammalian Gene Collection Primary Database (GenBank) records in the current set that include the complete protein coding region.	5000
+nucleotide_gene_pos	Gene	Gene Links	Links to genes	5000
+nucleotide_comp_genome	Genome	Components to Genome	Genome(s) using this record as component	5000
+nucleotide_genome	Genome	Assembly to Genome	Genome record containing nucleotide sequence	5000
+nucleotide_genome_samespecies	RefSeq genome for species	RefSeq genome	Reference genome or particular genomic segment for the species	5000
+nucleotide_mrna_genome	Genome	mRNA to Genome	Genome record referencing this mRNA	5000
+nucleotide_genome_byid	genome	genome	Links to genome	5000
+nucleotide_genomeprj	Genome Project	-	Related Genome Projects	5000
+nucleotide_geoprofiles	GEO Profiles	GEO Profile Links	GEO records associated with nucleotide record	10000
+nucleotide_nuccore_comp	nuccore	nuccore	Links to nuccore	5000
+nucleotide_nuccore_mrna	nuccore	nuccore	Links to nuccore	5000
+nucleotide_comp_nucleotide	Assembly	Assembly	Link to master record	5000
+nucleotide_mrna_nucleotide	Master	-	Link to master record	5000
+nucleotide_nucleotide	Related Sequences	Related Sequences	Similar or overlapping nucleotide sequence, using BLASTN	5000
+nucleotide_nucleotide_comp	Components	Component Links	Links to components	5000
+nucleotide_nucleotide_mrna	mRNA	mRNA Links	Links to mRNAs on this record	5000
+nucleotide_nucleotide_mgc_refseq	Order cDNA clone	-	NIH cDNA clone	5000
+nucleotide_protein	Protein	Protein Links	Protein sequence from coding region	5000
+nucleotide_wgs_protein	Protein	-	Links to proteins in this WGS project	5000
+nucleotide_protein_mgc	NIH cDNA clone	NIH cDNA clone links	MGC cDNA clone	5000
+nucleotide_protein_cds	Protein	Protein Links	Protein sequence from coding region	5000
+nucleotide_wgs_protein	Protein	-	Links to proteins in this WGS project	5000
+nucleotide_pubmed	PubMed	PubMed Links	PubMed articles cited by nucleotide sequence record	5000
+nucleotide_pubmed_accn	PubMed via Text	PubMed via Text	PubMed links via accessions from the abstract	5000
+nucleotide_taxonomy	Taxonomy	Taxonomy Links	Taxonomy sequences associated with nucleotide record	5000
+nucleotide_unigene_mgc	-	-	MGC cDNA clone	5000
+omia_gene	Gene	Gene Links	Related Gene articles	10000
+omia_homologene	HomoloGene	HomoloGene Links	Related HomoloGene records	5000
+omia_omim	OMIM	OMIM Links	Related OMIM records	10000
+omia_protein	Protein	Protein Links	Related Protein records	5000
+omia_pubmed	PubMed	PubMed Links	Related PubMed articles	10000
+omia_pubmed_five	-	-	Related PubMed articles	5000
+omia_taxonomy	Taxonomy	Taxonomy Links	Related Taxonomy articles	10000
+omia_unigene	UniGene	UniGene Links	Related UniGene records	5000
+omia_unists	UniSTS	UniSTS Links	Related UniSTS records	5000
+omim_biosystems	BioSystems	BioSystem Links	BioSystems	5000
+omim_books	Books	Book Links	Related Books	10000
+omim_gene	Gene	Gene Links	Links between OMIM and Gene are calculated by Gene based on MIM numbers included in the summary and phenotype sections of the Gene record.	10000
+omim_genetests	GeneTests	genetests	Gene Tests links	5000
+omim_genome	Genome	Genome Links	Genome sequences associated with OMIM record	10000
+omim_geo	GEO Profiles	GEO Profile Links	Related GEO Profile	10000
+omim_geoprofiles	GEO Profiles	GEO Profile Links	Related GEO Profile	10000
+omim_homologene	HomoloGene	HomoloGene Links	Related Homologene	10000
+omim_mapview	Map Viewer	-	Map Viewer Links	5000
+omim_nuccore	Nucleotide	Nucleotide Links	Nucleotide sequences associated with OMIM record	10000
+omim_nucest	EST	EST Links	EST sequences associated with OMIM record	10000
+omim_nucgss	GSS	GSS Links	GSS sequences associated with OMIM record	10000
+omim_omia	OMIA	OMIA Links	Related OMIA records	10000
+omim_omim	Related Entries	Related Entries	Related OMIM records, curated by OMIM editors	10000
+omim_pcassay	PubChem BioAssay	PubChem BioAssay Links	Related PubChem BioAssay	5000
+omim_pccompound	PubChem Compound	PubChem Compound Links	PubChem Compounds	5000
+omim_pcsubstance	PubChem Substance	PubChem Substance Links	PubChem Substances	5000
+omim_pmc	Free in PMC	PMC Links	Free full text articles in PMC	10000
+omim_protein	Protein	Protein Links	Protein sequences associated with OMIM record	10000
+omim_pubmed_calculated	PubMed (calculated)	PubMed (calculated) Links	PubMed (calculated) Links	5000
+omim_pubmed_cited	PubMed (cited)	PubMed (cited) Links	PubMed (cited) Links	5000
+omim_snp	SNP	SNP Links	Related SNPs	10000
+omim_snp_genegenotype	Gene Genotype	Gene Genotype Links	Gene Genotype Report	10000
+omim_snp_geneview	GeneView in dbSNP	-	SNPs linked from GeneView	10000
+omim_structure	Structure	Structure Links	3D structures associated with OMIM record	10000
+omim_unigene	UniGene	UniGene Links	Related UniGene records	10000
+omim_unists	UniSTS	UniSTS Links	Link to related UniSTS entry	10000
+pcassay_biosystems_active	BioSystems via Actives	BioSystems via Actives	BioSystems via Actives	5000
+pcassay_biosystems_target	BioSystems via Protein and Gene Target	BioSystems via Protein and Gene Target	BioSystems via Protein and Gene Target	5000
+pcassay_cdd_protein_target	Conserved Domains (Full) via Protein Target	Conserved Domains (Full) via Protein Target	Conserved Domains (Full) via Protein Target	5000
+pcassay_gene	Gene	Genes	Related Genes	5000
+pcassay_gene_target	Gene Target	Gene Target	Gene Targets of PubChem BioAssays	5000
+pcassay_gene_target_active	Gene target, Active	Gene target, Active	Gene target, Active	5000
+pcassay_nuccore	Nucleotide	Nucleotide	Related Nucleotide sequence	10000
+pcassay_nuccore_dna_target	Nucleotide DNA Target	Nucleotide DNA Target	Nucleotide Target DNA of a particular PubChem BioAssay	5000
+pcassay_nuccore_rna_target	Nucleotide RNA Target	Nucleotide RNA Target	Nucleotide Target RNA of a particular PubChem BioAssay	5000
+pcassay_nucest	EST	EST	Related EST sequence	10000
+pcassay_nucest_dna_target	EST DNA Target	EST DNA Target	EST Target DNA of a particular PubChem BioAssay	5000
+pcassay_nucest_rna_target	EST RNA Target	EST RNA Target	EST Target RNA of a particular PubChem BioAssay	5000
+pcassay_nucgss	GSS	GSS	Related GSS sequence	10000
+pcassay_nucgss_dna_target	GSS DNA Target	GSS DNA Target	GSS Target DNA of a particular PubChem BioAssay	5000
+pcassay_nucgss_rna_target	GSS RNA Target	GSS RNA Target	GSS Target RNA of a particular PubChem BioAssay	5000
+pcassay_omim	OMIM	OMIM	Related OMIM	5000
+pcassay_pcassay_activityneighbor_five	Related Bioassays, by Activity Overlap	Related Bioassays, by Activity Overlap	Related PubChem BioAssays based on activity (top five)	5000
+pcassay_pcassay_targetneighbor_five	Related Bioassays, by Target Similarity	Related Bioassays, by Target Similarity	Related PubChem BioAssays based on target protein (top five)	5000
+pcassay_pcassay_neighbor_five	Related Bioassays, by Depositor	Related Bioassays, by Depositor	PubChem BioAssay Neighbors (top five)	5000
+pcassay_pcassay_activityneighbor_list	Related BioAssays, by Activity Overlap (List)	Related BioAssays, by Activity Overlap (List)	Related BioAssays, by Activity Overlap (List)	5000
+pcassay_pcassay_neighbor_summary	Related BioAssays, by Depositor (Summary)	-	Related BioAssays, by Depositor (Summary)	5000
+pcassay_pcassay_targetneighbor_list	Related BioAssays, by Target Similarity (List)	Related BioAssays, by Target Similarity (List)	Related BioAssays, by Target Similarity (List)	5000
+pcassay_pcassay_activityneighbor	Related BioAssays, by Activity Overlap (Summary)	Related Bioassays, by Activity Overlap	Related PubChem BioAssays based on activity (Summary)	5000
+pcassay_pcassay_neighbor	Related BioAssays, by Depositor (List)	Related BioAssays, by Depositor (List)	PubChem BioAssay Neighbors (List)	5000
+pcassay_pcassay_targetneighbor	Related BioAssays, by Target Similarity (Summary)	Related Bioassays, by Target Similarity	Related PubChem BioAssays based on target protein (Summary)	5000
+pcassay_pcassay_biosystemsneighbor_list	Related BioAssays, by BioSystems via Protein and Gene Target (List)	Related BioAssays, by BioSystems via Protein and Gene Target (List)	Related BioAssays, by BioSystems via Protein and Gene Target (List)	5000
+pcassay_pcassay_biosystemsneighbor_summary	Related BioAssays, by BioSystems via Protein and Gene Target (Summary)	-	Related BioAssays, by BioSystems via Protein and Gene Target (Summary)	5000
+pcassay_pcassay_activityneighbor_summary	Related BioAssays, by Activity Overlap (Summary)	-	Related PubChem BioAssays based on activity (Summary)	5000
+pcassay_pcassay_neighbor_list	Related BioAssays, by Depositor (List)	Related BioAssays, by Depositor (List)	PubChem BioAssay Neighbors (List)	5000
+pcassay_pcassay_targetneighbor_summary	Related BioAssays, by Target Similarity (Summary)	-	Related PubChem BioAssays based on target protein (Summary)	5000
+pcassay_pcassay_same_publication_list	Related BioAssays, by Same Publication (List)	Related BioAssays, by Same Publication (List)	Related BioAssays, by Same Publication (List)	5000
+pcassay_pcassay_same_publication_summary	Related BioAssays, by Same Publication (Summary)	-	Related BioAssays, by Same Publication (Summary)	5000
+pcassay_pccompound	Compounds	Compounds	Related Compounds	300
+pcassay_pccompound_active_five	PubChem Compound, Active	PubChem Compounds, Active	Related PubChem Compound (top five)	10000
+pcassay_pccompound_inactive	Compounds, Inactive	Compounds, Inactive	Related Compounds, Inactive	300
+pcassay_pccompound_inconclusive	Compounds, Inconclusive	Compounds, Inconclusive	Related Compounds, Inconclusive	5000
+pcassay_pccompound_five	PubChem Compound	PubChem Compounds	Related PubChem Compound (top five)	10000
+pcassay_pccompound_inactive_five	PubChem Compound, Inactive	PubChem Compounds, Inactive	Related PubChem Compound (top five)	10000
+pcassay_pccompound_active	Compounds, Active	Compounds, Active	Related Compounds, Active	10000
+pcassay_pccompound_probe	Compounds, Probe	Compounds, Probe	Related Compounds, Probe	5000
+pcassay_pccompound_panel_active	Compounds, Active (any panel component)	Compounds, Active (any panel component)	Compounds, Active (any panel component)	5000
+pcassay_pccompound_panel_inactive	Compounds, Inactive (any panel component)	Compounds, Inactive (any panel component)	Compounds, Inactive (any panel component)	5000
+pcassay_pccompound_activityconcmicromolar	Compounds, activity concentration at/below 1 uM	Compounds, activity concentration at/below 1 uM	Compounds, activity concentration at/below 1 uM	5000
+pcassay_pccompound_activityconcnanomolar	Compounds, activity concentration at/below 1 nM	Compounds, activity concentration at/below 1 nM	Compounds, activity concentration at/below 1 nM	5000
+pcassay_pcsubstance	Substances	Substances	Related Substances	300
+pcassay_pcsubstance_active_five	PubChem Substance, Active	PubChem Substances, Active	Related PubChem Substance (top five)	10000
+pcassay_pcsubstance_inactive	Substances, Inactive	Substances, Inactive	Related Substances, Inactive	300
+pcassay_pcsubstance_inconclusive	Substances, Inconclusive	Substances, Inconclusive	Related Substances, Inconclusive	5000
+pcassay_pcsubstance_five	PubChem Substance	PubChem Substances	Related PubChem Substance (top five)	10000
+pcassay_pcsubstance_inactive_five	PubChem Substance, Inactive	PubChem Substances, Inactive	Related PubChem Substance (top five)	10000
+pcassay_pcsubstance_active	Substances, Active	Substances, Active	Related Substances, Active	10000
+pcassay_pcsubstance_probe	Substances, Probe	Substances, Probe	Related substances, Probe	5000
+pcassay_pcsubstance_panel_active	Substances, Active (any panel component)	Substances, Active (any panel component)	Substances, Active (any panel component)	5000
+pcassay_pcsubstance_panel_inactive	Substances, Inactive (any panel component)	Substances, Inactive (any panel component)	Substances, Inactive (any panel component)	5000
+pcassay_pcsubstance_activityconcmicromolar	Substances, activity concentration at/below 1 uM	Substances, activity concentration at/below 1 uM	Substances, activity concentration at/below 1 uM	5000
+pcassay_pcsubstance_activityconcnanomolar	Substances, activity concentration at/below 1 nM	Substances, activity concentration at/below 1 nM	Substances, activity concentration at/below 1 nM	5000
+pcassay_pmc	Full text in PMC	PMC Articles	PubMed Central Links	10000
+pcassay_probe	Nucleic acid reagent	Nucleic acid reagent	Nucleic Acid Reagents used in a particular PubChem BioAssay	5000
+pcassay_protein	Protein	Protein Sequences	Related Protein sequence	10000
+pcassay_protein_target	Protein Target	Protein Target	Target Proteins of a particular PubChem BioAssay	5000
+pcassay_protein_target_pig	Protein Target, Identical Sequence	Protein Target, Identical Sequence	PubChem BioAssays done on the protein target PIG	5000
+pcassay_pubmed	PubMed Citation	PubMed Citations	Related PubMed Citation	10000
+pcassay_structure	Protein Structure	Protein Structures	Related Protein Structure	10000
+pcassay_taxonomy	Taxonomy	Taxonomy	Related Taxonomy	5000
+pccompound_biosystems	BioSystems	BioSystems	BioSystems	5000
+pccompound_gene	Gene	Gene	Genes	5000
+pccompound_mesh	MeSH Keyword	MeSH Keyword	Related MeSH	10000
+pccompound_nuccore	Nucleotide Sequences	Nucleotide Sequences	Related Nucleotide	10000
+pccompound_nucest	EST Sequences	EST Sequences	Related EST	10000
+pccompound_nucgss	GSS Sequences	GSS Sequences	Related GSS	10000
+pccompound_omim	OMIM	OMIM	OMIM	5000
+pccompound_pcassay_five	PubChem BioAssays	PubChem BioAssays	Related PubChem BioAssay (top five)	10000
+pccompound_pcassay_active_five	PubChem BioAssays, Active	PubChem BioAssays, Active	Related PubChem Active BioAssay (top five)	10000
+pccompound_pcassay_inactive_five	PubChem BioAssays, Inactive	PubChem BioAssays, Inactive	Related PubChem Inactive BioAssay (top five)	10000
+pccompound_pcassay_inconclusive	BioAssays, Inconclusive	BioAssays, Inconclusive	Related Inconclusive BioAssays	10000
+pccompound_pcassay	BioAssays	BioAssays	Related BioAssays	10000
+pccompound_pcassay_active	BioAssays, Active	BioAssays, Active	Related Active BioAssays	10000
+pccompound_pcassay_inactive	BioAssays, Inactive	BioAssays, Inactive	Related Inactive BioAssays	10000
+pccompound_pcassay_probe	BioAssays, Probe	BioAssays, Probe	Related Probe BioAssays	5000
+pccompound_pcassay_panel_active	BioAssays, Active (any panel component)	BioAssays, Active (any panel component)	BioAssays, Active (any panel component)	5000
+pccompound_pcassay_panel_inactive	BioAssays, Inactive (any panel component)	BioAssays, Inactive (any panel component)	BioAssays, Inactive (any panel component)	5000
+pccompound_pcassay_activityconcmicromolar	BioAssays, activity concentration at/below 1 uM	BioAssays, activity concentration at/below 1 uM	BioAssays, activity concentration at/below 1 uM	5000
+pccompound_pcassay_activityconcnanomolar	BioAssays, activity concentration at/below 1 nM	BioAssays, activity concentration at/below 1 nM	BioAssays, activity concentration at/below 1 nM	5000
+pccompound_pccompound	Similar Compounds	Similar Compounds	Related PubChem Similar Compound	5000
+pccompound_pccompound_mixture	Mixture/Component Compounds	Mixture/Component Compounds	Related PubChem Mixture/Component Compound	10000
+pccompound_pccompound_parent_connectivity_popup	Same Parent, Connectivity	-	Same Parent, Connectivity	10000
+pccompound_pccompound_parent_connectivity_pulldown	-	Same Parent, Connectivity	Same Parent, Connectivity	10000
+pccompound_pccompound_parent_isotopes_popup	Same Parent, Isotopes	-	Same Parent, Isotopes	10000
+pccompound_pccompound_parent_isotopes_pulldown	-	Same Parent, Isotopes	Same Parent, Isotopes	10000
+pccompound_pccompound_parent_popup	Same Parent	-	Same Parent	10000
+pccompound_pccompound_parent_pulldown	-	Same Parent	Same Parent	10000
+pccompound_pccompound_parent_stereo_popup	Same Parent, Stereochemistry	-	Same Parent, Stereochemistry	10000
+pccompound_pccompound_parent_stereo_pulldown	-	Same Parent, Stereochemistry	Same Parent, Stereochemistry	10000
+pccompound_pccompound_parent_tautomer_popup	Same Parent, Any Tautomer	-	Same Parent, Any Tautomer	10000
+pccompound_pccompound_parent_tautomer_pulldown	-	Same Parent, Any Tautomer	Same Parent, Any Tautomer	10000
+pccompound_pccompound_sameanytautomer_popup	Same, Any Tautomer	-	Related PubChem Identical Compounds (Same, Any Tautomer)	10000
+pccompound_pccompound_sameanytautomer_pulldown	-	Same, Any Tautomer	Related PubChem Identical Compounds (Same, Any Tautomer)	10000
+pccompound_pccompound_sameconnectivity_popup	Same, Connectivity	-	Related PubChem Identical Compounds (Same, Connectivity)	10000
+pccompound_pccompound_sameconnectivity_pulldown	-	Same, Connectivity	Related PubChem Identical Compounds (Same, Connectivity)	10000
+pccompound_pccompound_sameisotopic_popup	Same, Isotopes	-	Related PubChem Identical Compounds (Same, Isotopic)	10000
+pccompound_pccompound_sameisotopic_pulldown	-	Same, Isotopes	Related PubChem Identical Compounds (Same, Isotopic)	10000
+pccompound_pccompound_samestereochem_popup	Same, Stereochemistry	-	Related PubChem Identical Compounds (Same, Stereochem.)	10000
+pccompound_pccompound_samestereochem_pulldown	-	Same, Stereochemistry	Related PubChem Identical Compounds (Same, Stereochem.)	10000
+pccompound_pccompound_five	Similar Compounds	Similar Compounds	Related PubChem Similar Compound (top five)	10000
+pccompound_pccompound_parent	Parent Compound	Parent Compound	Parent Compound	5000
+pccompound_pccompound_3d	Similar Conformers	Similar Conformers	3D Shape Similarity	5000
+pccompound_pcsubstance	PubChem Mixture Substances	PubChem Mixture Substances	Related PubChem Substance	10000
+pccompound_pcsubstance_same	PubChem Same Substances	PubChem Same Substances	Related PubChem Substance	10000
+pccompound_pmc	PMC Articles	PMC Articles	PubMed Central Links	10000
+pccompound_probe	Probe	Probe	Probes	5000
+pccompound_protein_five	Protein Sequences	Protein Sequences	Related Protein (top five)	10000
+pccompound_protein	Protein Sequences	Protein Sequences	Related Protein	10000
+pccompound_pubmed	PubMed Citations	PubMed Citations	Related PubMed Citation	10000
+pccompound_pubmed_mesh	PubMed (MeSH Keyword)	PubMed (MeSH Keyword)	Related PubMed via MeSH	5000
+pccompound_pubmed_publisher	PubMed (Publisher)	PubMed (Publisher)	PubMed articles linked via publisher deposited structures	5000
+pccompound_pubmed_mesh	PubMed (MeSH Keyword)	PubMed (MeSH Keyword)	Related PubMed via MeSH	5000
+pccompound_structure_five	Protein Structures	Protein Structures	Related Protein Structure (top five)	10000
+pccompound_structure	Protein Structures	Protein Structures	Related Protein Structure	10000
+pccompound_taxonomy	Taxonomy	Taxonomy	Taxonomy	5000
+pcsubstance_biosystems	BioSystems	BioSystems	BioSystems	5000
+pcsubstance_books	Books	Books	Related books	10000
+pcsubstance_gene	Gene	Gene	Genes	5000
+pcsubstance_mesh	MeSH Keyword	MeSH Keyword	Related MeSH	10000
+pcsubstance_nuccore	Nucleotide Sequences	Nucleotide Sequences	Related Nucleotide	10000
+pcsubstance_nucest	EST Sequences	EST Sequences	Related EST	10000
+pcsubstance_nucgss	GSS Sequences	GSS Sequences	Related GSS	10000
+pcsubstance_omim	OMIM	OMIM	OMIM	5000
+pcsubstance_pcassay_five	PubChem BioAssays	PubChem BioAssays	Related PubChem BioAssay (top five)	10000
+pcsubstance_pcassay_active_five	PubChem BioAssays, Active	PubChem BioAssays, Active	Related PubChem Active BioAssay (top five)	10000
+pcsubstance_pcassay_inactive_five	PubChem BioAssays, Inactive	PubChem BioAssays, Inactive	Related PubChem Inactive BioAssay (top five)	10000
+pcsubstance_pcassay_inconclusive	BioAssays, Inconclusive	BioAssays, Inconclusive	Related Inconclusive BioAssays	10000
+pcsubstance_pcassay	BioAssays	BioAssays	Related BioAssays	10000
+pcsubstance_pcassay_active	BioAssays, Active	BioAssays, Active	Related Active BioAssays	10000
+pcsubstance_pcassay_inactive	BioAssays, Inactive	BioAssays, Inactive	Related Inactive BioAssays	10000
+pcsubstance_pcassay_probe	BioAssays, Probe	BioAssays, Probe	Related Probe BioAssays	5000
+pcsubstance_pcassay_panel_active	BioAssays, Active (any panel component)	BioAssays, Active (any panel component)	BioAssays, Active (any panel component)	5000
+pcsubstance_pcassay_panel_inactive	BioAssays, Inactive (any panel component)	BioAssays, Inactive (any panel component)	BioAssays, Inactive (any panel component)	5000
+pcsubstance_pcassay_activityconcmicromolar	BioAssays, activity concentration at/below 1 uM	BioAssays, activity concentration at/below 1 uM	BioAssays, activity concentration at/below 1 uM	5000
+pcsubstance_pcassay_activityconcnanomolar	BioAssays, activity concentration at/below 1 nM	BioAssays, activity concentration at/below 1 nM	BioAssays, activity concentration at/below 1 nM	5000
+pcsubstance_pccompound	PubChem Component Compounds	PubChem Component Compounds	Related PubChem Compound	10000
+pcsubstance_pccompound_same	PubChem Same Compound	PubChem Same Compounds	Related PubChem Compound	10000
+pcsubstance_pcsubstance	Similar Substances	Similar Substances	Related PubChem Similar Substance	5000
+pcsubstance_pcsubstance_parent_connectivity_popup	Same Parent, Connectivity	-	Same Parent, Connectivity	5000
+pcsubstance_pcsubstance_parent_connectivity_pulldo	-	Same Parent, Connectivity	Same Parent, Connectivity	5000
+pcsubstance_pcsubstance_parent_isotopes_popup	Same Parent, Isotopes	-	Same Parent, Isotopes	5000
+pcsubstance_pcsubstance_parent_isotopes_pulldown	-	Same Parent, Isotopes	Same Parent, Isotopes	5000
+pcsubstance_pcsubstance_parent_popup	Same Parent	-	Same Parent	5000
+pcsubstance_pcsubstance_parent_pulldown	-	Same Parent	Same Parent	5000
+pcsubstance_pcsubstance_parent_stereo_popup	Same Parent, Stereochemistry	-	Same Parent, Stereochemistry	5000
+pcsubstance_pcsubstance_parent_stereo_pulldown	-	Same Parent, Stereochemistry	Same Parent, Stereochemistry	5000
+pcsubstance_pcsubstance_parent_tautomer_popup	Same Parent, Any Tautomer	-	Same Parent, Any Tautomer	5000
+pcsubstance_pcsubstance_parent_tautomer_pulldown	-	Same Parent, Any Tautomer	Same Parent, Any Tautomer	5000
+pcsubstance_pcsubstance_same_popup	Same Substances	-	Related PubChem Identical Substances (Same)	10000
+pcsubstance_pcsubstance_same_pulldown	-	Same Substances	Related PubChem Identical Substances (Same)	10000
+pcsubstance_pcsubstance_sameanytautomer_popup	Same, Any Tautomer	-	Related PubChem Identical Substances (Same, Any Tautomer)	10000
+pcsubstance_pcsubstance_sameanytautomer_pulldown	-	Same, Any Tautomer	Related PubChem Identical Substances (Same, Any Tautomer)	10000
+pcsubstance_pcsubstance_sameconnectivity_popup	Same, Connectivity	-	Related PubChem Identical Substances (Same, Connectivity)	10000
+pcsubstance_pcsubstance_sameconnectivity_pulldow	-	Same, Connectivity	Related PubChem Identical Substances (Same, Connectivity)	10000
+pcsubstance_pcsubstance_sameisotopic_popup	Same, Isotopes	-	Related PubChem Identical Substances (Same, Isotopic)	10000
+pcsubstance_pcsubstance_sameisotopic_pulldown	-	Same, Isotopes	Related PubChem Identical Substances (Same, Isotopic)	10000
+pcsubstance_pcsubstance_samestereochem_popup	Same, Stereochemistry	-	Related PubChem Identical Substances (Same, Stereochem.)	10000
+pcsubstance_pcsubstance_samestereochem_pulldown	-	Same, Stereochemistry	Related PubChem Identical Substances (Same, Stereochem.)	10000
+pcsubstance_pcsubstance_five	Similar Substances	Similar Substances	Related PubChem Similar Substance (top five)	10000
+pcsubstance_pcsubstance_parent_connectivity_popup	Same Parent, Connectivity	-	Same Parent, Connectivity	1000
+pcsubstance_pcsubstance_parent_connectivity_pulldo	-	Same Parent, Connectivity	Same Parent, Connectivity	1000
+pcsubstance_pcsubstance_parent_isotopes_popup	Same Parent, Isotopes	-	Same Parent, Isotopes	1000
+pcsubstance_pcsubstance_parent_isotopes_pulldown	-	Same Parent, Isotopes	Same Parent, Isotopes	1000
+pcsubstance_pcsubstance_parent_popup	Same Parent	-	Same Parent	1000
+pcsubstance_pcsubstance_parent_pulldown	-	Same Parent	Same Parent	1000
+pcsubstance_pcsubstance_parent_stereo_popup	Same Parent, Stereochemistry	-	Same Parent, Stereochemistry	1000
+pcsubstance_pcsubstance_parent_stereo_pulldown	-	Same Parent, Stereochemistry	Same Parent, Stereochemistry	1000
+pcsubstance_pcsubstance_parent_tautomer_popup	Same Parent, Any Tautomer	-	Same Parent, Any Tautomer	1000
+pcsubstance_pcsubstance_parent_tautomer_pulldown	-	Same Parent, Any Tautomer	Same Parent, Any Tautomer	1000
+pcsubstance_pmc	PMC Articles	PMC Articles	PubMed Central Links	10000
+pcsubstance_probe	Probe	Probe	Probes	5000
+pcsubstance_protein_five	Protein Sequences	Protein Sequences	Related Protein (top five)	10000
+pcsubstance_protein	Protein Sequences	Protein Sequences	Related Protein	10000
+pcsubstance_pubmed	PubMed Citations	PubMed Citations	Related PubMed Citation	10000
+pcsubstance_pubmed_mesh	PubMed (MeSH Keyword)	PubMed (MeSH Keyword)	Related PubMed via MeSH	5000
+pcsubstance_pubmed_publisher	PubMed (Publisher)	PubMed (Publisher)	PubMed Substances supplied by publisher	5000
+pcsubstance_pubmed_mesh	PubMed (MeSH Keyword)	PubMed (MeSH Keyword)	Related PubMed via MeSH	1000
+pcsubstance_structure_five	Protein Structures	Protein Structures	Related Protein Structure (top five)	10000
+pcsubstance_structure	Protein Structures	Protein Structures	Related Protein Structure	10000
+pcsubstance_taxonomy	Taxonomy	Taxonomy	Taxonomy	5000
+pepdome_gene	Genes	Gene Links	Related Genes	5000
+pepdome_protein	Protein	Protein Links	Related Proteins	5000
+pepdome_pubmed	PubMed	PubMed Links	Related PubMed articles	5000
+pepdome_taxonomy	Taxonomy	Taxonomy Links	Related organisms	5000
+pmc_books_refs	Cited in Books	Cited in Books	PubMed Central articles cited in books	10000
+pmc_cancerchromosomes	Cancer Chromosomes	CancerChrom Links	Cancer Chromosome links	5000
+pmc_cdd	Conserved Domains	Conserved Domain Links	Link to related CDD entry	10000
+pmc_domains	3D Domains	3D Domain Links	3D Domain links	5000
+pmc_gds	GEO DataSets	GEO DataSet Links	GEO DataSet links	5000
+pmc_gene	Gene	Gene Links	Gene links	5000
+pmc_genome	Genome	Genome Links	Published genome sequences	10000
+pmc_genomeprj	Genome Project	Genome Project Links	Genome Project links	5000
+pmc_gensat	GENSAT	GENSAT Links	GENSAT links	5000
+pmc_geo	GEO Profiles	GEO Profile Links	Related GEO records	5000
+pmc_geo	GEO Profiles	GEO Profile Links	Related GEO records	5000
+pmc_geoprofiles	GEO Profiles	GEO Profile Links	Related GEO records	10000
+pmc_homologene	HomoloGene	HomoloGene Links	HomoloGene links	5000
+pmc_nuccore	Nucleotide	Nucleotide Links	Published Nucleotide sequences	10000
+pmc_nucest	EST	EST Links	Published EST sequences	10000
+pmc_nucgss	GSS	GSS Links	Published GSS sequences	10000
+pmc_omim	OMIM	OMIM Links	OMIM record citing PubMed	10000
+pmc_pcassay	BioAssay	BioAssay Links	PubChem BioAssay links	10000
+pmc_pccompound	Compound	Compound Links	PubChem Compound links	10000
+pmc_pcsubstance	Substance	Substance Links	PubChem Substance links	10000
+pmc_pmc_refs	Cited in PMC	-	Related articles in PMC	10000
+pmc_popset	PopSet	PopSet Links	Published population set	10000
+pmc_protein	Protein	Protein Links	Published protein sequences	10000
+pmc_pubmed	PubMed	PubMed Links	PMC link associated with PubMed	10000
+pmc_refs_pubmed	Cited Articles	Cited Articles	PubMed article citing PMC article	10000
+pmc_pubmed_embargo	-	-	Embargoed PMC article associated with PubMed	5000
+pmc_snp	SNP	SNP Links	PMC to SNP links	10000
+pmc_structure	Structure	Structure Links	Published 3D structures	10000
+pmc_taxonomy	Taxonomy	Taxonomy Links	Related taxonomy entry	10000
+pmc_unists	UniSTS	UniSTS Links	Related UniSTS records	10000
+popset_genomeprj	Genome Project	Genome Project Links	(No records.)	10000
+popset_nuccore	Nucleotide	Nucleotide Links	Nucleotide sequence records that are included in the current population, phylogenetic, or ecosystem studies.	10000
+popset_nucleotide	Nucleotide	Nucleotide Links	Nucleotide sequence records that are included in the current population, phylogenetic, or ecosystem studies.	5000
+popset_pmc	Free in PMC	-	Free full-text articles in PubMed Central that are sources of the current population, phylogenetic, or ecosystem studies.	10000
+popset_popset_samepmid	PopSet	PopSet	Other PopSets reported in the same publication. These typically are sequences of other molecules reported and analyzed in the same study.	5000
+popset_popset	PopSet	PopSet	Other PopSets submitted with the current set. These typically are sequences of other molecules reported and analyzed in the same study and, when published, are normally reported in the same article.	5000
+popset_protein	Protein	Protein Links	Protein sequence records that are included in the current population, phylogenetic, or ecosystem studies.	10000
+popset_pubmed	PubMed	PubMed Links	PubMed articles that are sources of the current population, phylogenetic, or ecosystem studies.	10000
+popset_taxonomy	Taxonomy	Taxonomy Links	NCBI Taxonomy entries and classification information for the source organisms of the current population, phylogenetic, or ecosytem studies.	10000
+probe_gene	Gene	Gene Links	Related Gene entry	10000
+probe_nuccore	Nucleotide	Nucleotide Links	Related Nucleotide entry	10000
+probe_nucest	EST	EST Links	Related EST entry	10000
+probe_nucgss	GSS	GSS Links	Related GSS entry	10000
+probe_pcassay	BioAssay	BioAssay	PubChem BioAssays	5000
+probe_pccompound	PubChem Compound	PubChem Compound Links	PubChem Compounds	5000
+probe_pcsubstance	PubChem Substance	PubChem Substance Links	PubChem Substances	5000
+probe_probe	Probe Neighbors	Neighbor Links	Related Probe entries	10000
+probe_pubmed	PubMed	PubMed Links	Related PubMed article	10000
+probe_snp	SNP	SNP Links	Related SNPs	5000
+probe_taxonomy	Taxonomy	Taxonomy Links	Related Taxonomy entry	10000
+protein_biosystems	BioSystems	BioSystem Links	Pathways and other biosystems containing the current proteins.	5000
+protein_cdd	Conserved Domains (Full)	Conserved Domain Links	Full list of Conserved domains present in the current proteins as determined by a Conserved Domain Database search using RPS-BLAST. This set includes all domain models that meet or exceed the RPS-BLAST threshold for statistical significance, as well as the conserved domain superfamilies to which they belong.	10000
+protein_cdd_summary	CDD Search Results	-	Graphical display of conserved domains identified in the protein using RPS-BLAST.  The concise results (top-scoring hits) are shown by default, with an option to view the full results, if desired. Click on any domain footprint in the graphical display to see more details and to view the query protein sequence embedded in the domain model’s multiple sequence alignment.	10000
+protein_cdd_concise_2	Conserved Domains (Concise)	Concise Conserved Domain Links	Concise (top-scoring) list of conserved domains present in the current proteins as determined by a Conserved Domain Database search using RPS-BLAST. For each region on a protein query sequence, this set includes: (a) a specific hit, if one is available, (b) the conserved domain superfamily, and (c) the best-scoring hit that is classified as a multi-domain model, if the alignment is near-complete with respect to that multidomain model footprint.	5000
+protein_domains	3D domains	3D Domain Links	Three-dimensional structural domains present in the proteins in the current proteins.	10000
+protein_gene	Gene	Gene Links	Gene records referencing the current protein sequence records. Sequences included in Gene records are added manually by NCBI.	10000
+protein_genome	Genome	Genome Links	Genome records that have the current protein records as annotated features.	10000
+protein_nucleotide_comp_genome	Genome	-	Genome records that have the current protein records as annotated features.	10000
+protein_genomeprj	Genome project	Genome Project Links	Genome projects that are the sources of current sequence records. These sources may be single species or strains or may be environmental genome projects (metagenomes).	10000
+protein_genomeprj_insdc	INSDC protein genome projects	INSDC Protein Genome Projects Links	Genome projects for proteins annotated on finished genome sequence records from the International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) in the current set.	5000
+protein_homologene	HomoloGene	HomoloGene Links	Homologene clusters that contain the current RefSeq protein sequences.	10000
+protein_mapview	Map Viewer	-	Graphical Map Viewer display of the current proteins mapped to assembled genomes. Protein sequences are aligned through the corresponding mRNA sequence.	10000
+protein_nuccore	nuccore	nuccore	Nucleotide records that are the source of protein records in the current set. The protein sequences are generated through translation of coding region features on the nucleotide records.	5000
+protein_nuccore_wgs	WGS Project	-	Whole genome shotgun derived nucleotide sequences in the current set that are sources for the current protein sequences. The protein sequences are generated through translation of coding region features on the nucleotide records.	10000
+protein_nuccore	Nucleotide	Nucleotide Links	Nucleotide records that are the source of protein records in the current set. The protein sequences are generated through translation of coding region features on the nucleotide records.	5000
+protein_nuccore_mgc	Order cDNA Clone	Nucleotide NIH cDNA clone links	Order cDNA clones corresponding to Mammalian Gene Collection records that are the sources of the current protein records. The protein sequences are generated through translation of coding region features on the Mammalian Gene Collection sequences.	10000
+protein_nuccore_mat_peptide	Mature Peptide	Mature Peptides	Source viral genome nucleotide records that have the current proteins annotated as mature peptides.	5000
+protein_nuccore_mrna	Encoding mRNA	Encoding mRNA	Link from protein to encoding mRNA	5000
+protein_nucest_mgc	-	EST NIH cDNA clone links	(No records.)	10000
+protein_nucgss	nucgss	nucgss	Genome survey sequence (GSS) records that are the source of protein records in the current set. The protein sequences are generated through translation of coding region features on the GSS records.	5000
+protein_nucgss	GSS	GSS Links	Genome survey sequence (GSS) records that are the source of protein records in the current set. The protein sequences are generated through translation of coding region features on the GSS records.	5000
+protein_nucgss_mgc	-	GSS NIH cDNA clone links	(No records)	10000
+protein_nucleotide	Nucleotide	Nucleotide Links	Nucleotide records that are the source of protein records in the current set. The protein sequences are generated through translation of coding region features on the nucleotide records.	5000
+protein_nucleotide_mgc_url	Order cDNA clone	-	Order cDNA clones corresponding to Mammalian Gene Collection records that are the sources of the current proteins. The protein sequences are generated through translation of coding region features on the Mammalian Gene Collection sequences.	5000
+protein_nucleotide_wgs	WGS project	-	Whole genome shotgun derived nucleotide sequences that are the source of the proteins in the current set. The protein sequences are generated through translation of coding region features on the nucleotide records.	10000
+protein_nucleotide_cds	Nucleotide	Nucleotide Links	Nucleotide records that are the source of protein records in the current set. The protein sequences are generated through translation of coding region features on the nucleotide records.	5000
+protein_nucleotide_mgc_refseq	Order cDNA clone	-	Order cDNA clone corresponding to Reference Sequence records in the current set that are based on Mammalian Gene Collection sequences.	5000
+protein_omia	OMIA	OMIA Links	Online Mendelian Inheritance in Animals (OMIA) records that refer to protein records in the current set.	5000
+protein_omim	OMIM	OMIM Links	Online Mendelian Inheritance in Man (OMIM) records that refer to protein records in the current set.	10000
+protein_pcassay	BioAssay	BioAssay Links	BioAssay records that refer to protein records in the current set.	10000
+protein_pcassay_target	BioAssay by Target	BioAssay by target	PubChem Bioassay records from screening experiments that test proteins in the current set as a molecular target. Information about biological modulators of the protein target, such as enzyme inhibitors, may be available through the bioassay records.	5000
+protein_pcassay_target_pig	Bioassay by Target (Identical Proteins)	BioAssay by target,identical sequence	PubChem Bioassay records from screening experiments that test proteins with identical sequences to the current set as a molecular target. Information about biological modulators of the target, such as enzyme inhibitors, may be available through the bioassay records.	5000
+protein_pccompound	PubChem Compound	PubChem Compound Links	PubChem compound records that cite the protein records in the current set. These compound records are typically associated with protein through a molecular structure containing the both the protein and the PubChem small molecule.	10000
+protein_pcsubstance	PubChem Substance	PubChem Substance Links	PubChem substance records that cite the protein records in the current set. These substance records are usually associated with a protein through a molecular structure containing both the protein and the PubChem small molecule.	10000
+protein_pepdome	Peptidome	Peptidome Links	Mass-spectrometry protein expression experiments in Peptidome that identify the current proteins.	5000
+protein_pmc	Full text in PMC	PMC Links	Free full-text articles in PubMed central that cite protein records in the current set.	10000
+protein_popset	PopSet	PopSet Links	Population, ecosystem, or phylogenetic sets in the PopSet database that include records in the current set.	10000
+protein_protein	Related Sequences	Related Sequences	Protein sequences related by sequence similarity (BLAST) score to the current records.	500
+protein_protein_cdart_summary	Domain Relatives	-	Conserved Domain Architecture Retrieval Tool (cDART) results for proteins in the current set. cDART identifies proteins that have similar kinds of conserved domains with similar organization.	10000
+protein_protein_identical	Identical Proteins	Identical Proteins	Proteins with identical sequences to the records in the current set.	5000
+protein_protein_refseq2uniprot	Protein (UniProtKB)	Protein (UniProtKB)	Corresponding UniProt records for Reference Sequence (RefSeq) protein records in the current set.	5000
+protein_protein_uniprot2refseq	Protein (RefSeq)	Protein (RefSeq)	Corresponding Reference Sequence (RefSeq) records for UniProt protein records in the current set.	5000
+protein_proteinclusters	Protein Clusters	Protein Cluster Links	Protein Clusters of conserved proteins from prokaryotes and organelle genomes that contain records in the current set.	5000
+protein_pubmed	PubMed	PubMed Links	PubMed articles that cite the protein records in the current set. These are articles that report the International Nucleotide Database Collaboration (DDBJ, EMBL, GenBank) records. These articles are also linked to Reference Sequences derived from the GenBank records.	10000
+protein_pubmed_refseq	PubMed (RefSeq)	PubMed (RefSeq) Links	Link to RefSeq PubMed articles	5000
+protein_pubmed_weighted	PubMed (Weighted)	PubMed (Weighted) Links	PubMed articles associated with the current protein record through related Gene database records. These articles include Reference into Function, citations in related OMIM, and those associated with sequences in the Gene record.	5000
+protein_snp	SNP	SNP Links	Single nucleotide polymorphisms (SNPs) mapped to the current records.	10000
+protein_snp_genegenotype	Gene Genotype	Gene Genotype Links	Genotype reports for single nucleotide polymorphisms (SNPs) associated with the current records.	10000
+protein_snp_geneview	GeneView in dbSNP	-	Geneview in dbSNP showing single nucleotide polymorphisms (SNPs) mapped to the genes associated with the current records.	10000
+protein_structure	Structure	Structure Links	Three dimensional structure records that are the sources of the protein records in the current set. Each 3D structure and its corresponding sequence data can be viewed interactively in the free Cn3D tool.	10000
+protein_structure_related	Related Structures (Summary)	-	Graphical summary of three dimensional structures that contain one or more protein molecules similar in sequence to your query protein.  Alignment footprints indicate regions of similarity between the query protein and the structure-based protein, with an option to view the 3D structure and corresponding sequence alignment interactively in the free Cn3D tool.	10000
+protein_structure_related_list	Related Structures (List)	Related Structures (List)	List of three dimensional structure records that contain one or more protein molecules similar in sequence to the current protein(s). Each 3D structure and its corresponding sequence data can be viewed interactively in the free Cn3D tool.	500
+protein_taxonomy	Taxonomy	Taxonomy Links	NCBI Taxonomy entries and classification information for the source organisms of the current set of records.	10000
+protein_unigene	UniGene	UniGene Links	UniGene clusters of expressed sequences that contain Reference Sequnce protein records in the current set. Protein records are included in UniGene through sequence similarity to the translations of expressed sequences in the UniGene cluster.	10000
+proteinclusters_biosystems	BioSystems	BioSystems	BioSystems	5000
+proteinclusters_gene	Gene	Gene Links	Related Genes	5000
+proteinclusters_genome	Genome	Genome Links	Related Genomes	5000
+proteinclusters_nuccore	Nucleotide	Nucleotide Links	Related Nucleotides	5000
+proteinclusters_nucest	EST	EST Links	Related ESTs	5000
+proteinclusters_nucgss	GSS	GSS Links	Related GSSs	5000
+proteinclusters_protein	Protein	Protein Links	Related Proteins	5000
+proteinclusters_pubmed_cdd	PubMed (CDD)	PubMed (CDD) Links	Related CDD Publications	5000
+proteinclusters_pubmed_curated	PubMed (Curated)	PubMed (Curated) Links	Related Curated Publications	5000
+proteinclusters_pubmed_generif	PubMed (GeneRIF)	PubMed (GeneRIF) Links	Related GeneRIF Publications	5000
+proteinclusters_pubmed_homology	PubMed (By Homology)	PubMed (By Homology) Links	Related Homology Publications	5000
+proteinclusters_pubmed_refseq	PubMed (RefSeq)	PubMed (RefSeq) Links	Related RefSeq Publications	5000
+proteinclusters_pubmed_structure	PubMed (Structure)	PubMed (Structure) Links	Related Structure Publications	5000
+proteinclusters_pubmed_swissprot	PubMed (SwissProt)	PubMed (SwissProt) Links	Related SwissProt Publications	5000
+proteinclusters_pubmed	PubMed	PubMed Links	Related Publications	5000
+proteinclusters_taxonomy	Taxonomy	Taxonomy Links	Related Organisms	5000
+pubmed_biosample	BioSample	BioSample Links	BioSample links	5000
+pubmed_biosystems	BioSystems	BioSystem Links	Pathways and biological systems (BioSystems) that cite the current articles. Citations are from the BioSystems source databases (KEGG and BioCyc).	5000
+pubmed_books_refs	Cited in Books	Cited in Books	NCBI Bookshelf books that cite the current articles.	10000
+pubmed_cancerchromosomes	Cancer Chromosomes	CancerChrom Links	Cancer chromosome records that cite the current articles.	10000
+pubmed_cdd	Domains	Domain Links	Conserved Domain Database (CDD) records that cite the current articles. Citations are from the CDD source database records (PFAM, SMART). 	10000
+pubmed_domains	3D Domains	3D Domain Links	Structural domains in the NCBI Structure database that are parts of the 3D structures reported in the current articles.	10000
+pubmed_epigenomics	Epigenomics	Epigenomics Links	Related Epigenomics records	5000
+pubmed_epigenomics_experiment	Epigenomics (experiments)	Epigenomics (experiments)	Links to experimental data from epigenomic studies	5000
+pubmed_epigenomics_sample	Epigenomics (samples)	Epigenomics (samples)	Links to descriptions of biological samples used in epigenomic studies	5000
+pubmed_epigenomics_study	Epigenomics (study)	Epigenomics (study)	Links to overviews of epigenomic studies	5000
+pubmed_gap	dbGaP	dbGaP Links	Genotypes and Phenotypes (dbGaP) studies that cite the current articles.	5000
+pubmed_gds	GEO DataSets	GEO DataSet Links	Gene expression and molecular abundance data reported in the current articles that are also included in the curated Gene Expression Omnibus (GEO) DataSets.	10000
+pubmed_gene	Gene	Gene Links	Gene records that cite the current articles. Citations in Gene are added manually by NCBI or imported from outside public resources.	10000
+pubmed_gene_rif	Gene (GeneRIF)	Gene (GeneRIF) Links	Gene records that have the current articles as Reference into Function citations (GeneRIFs). NLM staff reviewing the literature while indexing MEDLINE add GeneRIFs manually.	5000
+pubmed_gene_citedinomim	Gene (OMIM)	Gene (OMIM) Links	Gene records associated with Online Mendelian Inheritance in Man (OMIM) records that cite the current articles in their reference lists.	5000
+pubmed_gene_bookrecords	Gene (from Bookshelf)	Gene (from Bookshelf)	Gene records in this citation	5000
+pubmed_genome	Genome	Genome Links	Genome records that include the current articles as references. These are typically the articles that report the sequencing and analysis of the genome.	10000
+pubmed_genomeprj	Related Project	Project Links	Genome Project records that cite the current articles. References on Genome Projects include manually added citations and those included on sequences in the project.	10000
+pubmed_gensat	GENSAT	GENSAT Links	Gene Expression Nervous System Atlas (GENSAT) records that cite the current articles. References on GENSAT records are provided by GENSAT investigators, and also include references on the corresponding NCBI Gene record.	10000
+pubmed_geo	GEO Profiles	GEO Profile Links	Gene Expression Omnibus (GEO) Profiles of molecular abundance data. The current articles are references on the Gene record associated with the GEO profile.	2000
+pubmed_geoprofiles	GEO Profiles	GEO Profile Links	Gene Expression Omnibus (GEO) Profiles of molecular abundance data. The current articles are references on the Gene record associated with the GEO profile.	2000
+pubmed_homologene	HomoloGene	HomoloGene Links	HomoloGene clusters of homologous genes and sequences that cite the current articles. These are references on the Gene and sequence records in the HomoloGene entry.	10000
+pubmed_nuccore	nuccore	nuccore	Primary database (GenBank) nucleotide records reported in the current articles as well as Reference Sequences (RefSeqs) that include the articles as references.	5000
+pubmed_nuccore	Nucleotide	Nucleotide Links	Primary database (GenBank) nucleotide records reported in the current articles as well as Reference Sequences (RefSeqs) that include the articles as references.	1000
+pubmed_nuccore_weighted	Nucleotide (Weighted)	Nucleotide (Weighted) Links	Nucleotide records associated with the current articles through the Gene database. These are the related sequences on the Gene record that are added manually by NCBI.	5000
+pubmed_nuccore_refseq	Nucleotide (RefSeq)	Nucleotide (RefSeq) Links	NCBI nucleotide Reference Sequences (RefSeqs) that are cited in the current articles, included in the corresponding Gene Reference into Function, or that include the PubMed articles as references.	5000
+pubmed_nucest	nucest	nucest	Expressed Sequence Tag (EST) nucleotide sequence records reported in the current articles.	5000
+pubmed_nucest	EST	EST Links	Expressed Sequence Tag (EST) nucleotide sequence records reported in the current articles.	1000
+pubmed_nucest_refseq	EST (RefSeq)	EST (RefSeq) Links	Link to EST RefSeqs	5000
+pubmed_nucgss	nucgss	nucgss	Genome Survey Sequence (GSS) nucleotide records reported in the current articles.	5000
+pubmed_nucgss	GSS	GSS Links	Genome Survey Sequence (GSS) nucleotide records reported in the current articles.	1000
+pubmed_nucgss_refseq	GSS (RefSeq)	GSS (RefSeq) Links	Link to GSS RefSeqs	5000
+pubmed_nucleotide	Nucleotide	Nucleotide Links		1000
+pubmed_nucleotide_accn	Nucleotide via Text	Nucleotide via Text	Nucleotide links via accessions from the abstract	5000
+pubmed_omia	OMIA	OMIA Links	Online Mendelian Inheritance in Animals (OMIA) records that cite the current articles.	10000
+pubmed_omim_calculated	OMIM (calculated)	OMIM (calculated) Links	Online Mendelian Inheritance in Man (OMIM) records that include the current articles as references in the light bulb links within or in the citations at the end of the OMIM record. The references available through the light bulb link are collected using the PubMed related articles algorithm to identify records with similar terminology to the OMIM record.	5000
+pubmed_omim_cited	OMIM (cited)	OMIM (cited) Links	Online Mendelian Inheritance in Man (OMIM) records that include the current articles as reference cited at the end of the OMIM record.	5000
+pubmed_omim_bookrecords	OMIM (from Bookshelf)	OMIM (from Bookshelf)	OMIM records in this citation	5000
+pubmed_pcassay	BioAssay	BioAssay Links	PubChem BioAssay experiments on the biological activities of small molecules that cite the current articles. The depositors of BioAssay data provide these references.	10000
+pubmed_pccompound	Compound	Compound Links	PubChem chemical compound records that cite the current articles. These references are taken from those provided on submitted PubChem chemical substance records. Multiple substance records may contribute to the PubChem compound record.	10000
+pubmed_pccompound_mesh	Compound (MeSH Keyword)	Compound (MeSH Keyword)	PubChem chemical compound records that are classified under the same Medical Subject Headings (MeSH) controlled vocabulary as the current articles.	10000
+pubmed_pccompound_publisher	Compound (Publisher)	Compound (Publisher) Links	Link to publisher deposited structures in the PubChem Compound database.	5000
+pubmed_pcsubstance	Substance	Substance Links	PubChem chemical substance records that cite the current articles. These references are taken from those provided on submitted PubChem chemical substance records.	10000
+pubmed_pcsubstance_mesh	Substance (MeSH Keyword)	Substance (MeSH Keyword)	PubChem chemical substance (submitted) records that are classified under the same Medical Subject Headings (MeSH) controlled vocabulary as the current articles.	10000
+pubmed_pcsubstance_publisher	Substance (Publisher)	Substance (Publisher) Links	Publisher deposited structures in the PubChem Compound database that are reported in the current articles.	5000
+pubmed_pcsubstance_bookrecords	PubChem Substance (from Bookshelf)	PubChem Substance (from Bookshelf)	Structures in the PubChem Substance database in this citation	5000
+pubmed_pepdome	Peptidome	Peptidome Links	Protein mass spectrometry and other proteomics data from the Peptidome database reported in the current articles.	5000
+pubmed_pmc	-	PMC Links	Free full-text versions of the current articles in the PubMed Central database.	10000
+pubmed_pmc_local	Free in PMC	-	Free full text articles in PMC	10000
+pubmed_pmc_refs	Cited in PMC	Cited in PMC	Full-text articles in the PubMed Central Database that cite the current articles.	10000
+pubmed_pmc_embargo	-	-	Embargoed PMC article associated with PubMed	5000
+pubmed_pmc_bookrecords	References in PMC for this Bookshelf citation	References in PMC for this Bookshelf citation	Full text of articles in PubMed Central cited in this record	5000
+pubmed_popset	PopSet	PopSet Links	Sets of sequences from population and evolutionary genetic studies in the PopSet database reported in the current articles.	10000
+pubmed_probe	Probe	Probe Links	Molecular reagents in the Probe database that cite the current articles. References in Probe are provided by submitters of the data.	10000
+pubmed_protein	Protein	Protein Links	Protein translation features of primary database (GenBank) nucleotide records reported in the current articles as well as Reference Sequences (RefSeqs) that include the articles as references.	10000
+pubmed_protein_refseq	Protein (RefSeq)	Protein (RefSeq) Links	NCBI protein Reference Sequences (RefSeqs) that are cited in the current articles, included in the corresponding Gene Reference into Function, or that include the PubMed articles as references.	5000
+pubmed_protein_weighted	Protein (Weighted)	Protein (Weighted) Links	Protein records associated with the current articles through related Gene database records. These are the related sequences on the Gene record that are added manually by NCBI.	5000
+pubmed_proteinclusters	Protein Clusters	Protein Cluster Links	Clusters of related proteins from the Protein Clusters database that cite the current articles. Sources of references in Protein Clusters include the associated Gene and Conserved Domain records as well as NCBI added citations.	5000
+pubmed_pubmed	Related Citations	Related Citations	Calculated set of PubMed citations closely related to the selected article(s) retrieved using a word weight algorithm. Related articles are displayed in ranked order from most to least relevant, with the “linked from” citation displayed first.	500
+pubmed_pubmed_refs	References for this PMC Article	References for PMC Articles	Citation referenced in PubMed article. Only valid for PubMed citations that are also in PMC.	5000
+pubmed_pubmed_bookrecords	References for this Bookshelf citation	References for this Bookshelf citation	PubMed abstracts for articles cited in this record	5000
+pubmed_snp	SNP	SNP Links	Nucleotide polymorphism records from dbSNP that have current articles as submitter-provided references.	500
+pubmed_snp_cited	SNP (Cited)	SNP (Cited)	Nucleotide polymorphism records from dbSNP that have NCBI dbSNP identifiers reported in the PubMed abstract of the current articles.	5000
+pubmed_sra	SRA	SRA Links	Massively-parallel sequencing project data in the Short Read Archive (SRA) that are reported in the current articles.	5000
+pubmed_structure	Structure	Structure Links	Three-dimensional structure records in the NCBI Structure database for data reported in the current articles.	10000
+pubmed_taxonomy_entrez	Taxonomy via GenBank	Taxonomy via GenBank	Taxonomy records associated with the current articles through taxonomic information on related molecular database records (Nucleotide, Protein, Gene, SNP, Structure).	5000
+pubmed_unigene	UniGene	UniGene Links	UniGene clusters of expressed sequences that are associated with the current articles through references on the clustered sequence records and related Gene records.	10000
+pubmed_unists	UniSTS	UniSTS Links	Genetic, physical, and sequence mapping reagents in the UniSTS database associated with the current articles through references on sequence tagged site (STS) submissions as well as automated searching of PubMed abstracts and full-text PubMed Central articles for marker names.	10000
+seqannot_gds	GDS	GDS Links	GDS links	5000
+seqannot_genomeprj	Genome Project	Genome Project links	Genome Project links	5000
+seqannot_nuccore	NucCore	NucCore links	NucCore links	5000
+seqsample_sra	SRA	SRA Links	Links to Short Read Archive Experiments	5000
+snp_biosample	BioSample	BioSample Links	Related BioSample record	5000
+snp_gap	GAP	GAP Links	GAP Links	5000
+snp_gene	Gene	Gene Links	Related Genes records	10000
+snp_gene_clin	Gene (Clinical)	Gene (Clinical)	Related Clinical Gene	5000
+snp_hapvarset	SNP HapVarSet	-	Related Haplotype Variation Set	5000
+snp_homologene	HomoloGene	HomoloGene Links	Related HomoloGene records	10000
+snp_nuccore	Nucleotide	Nucleotide Links	Related Nucleotide records	10000
+snp_nucest	EST	EST Links	Related EST records	10000
+snp_nucgss	GSS	GSS Links	Related GSS records	10000
+snp_omim	OMIM	OMIM Links	Related OMIM records	10000
+snp_pmc	Free in PMC	PMC Links	Free full text articles in PMC	10000
+snp_probe	Probe	Probe Links	Related Probe records	5000
+snp_protein	Protein	Protein Links	Related Proteins	10000
+snp_pubmed	PubMed	PubMed Links	SNP to PubMed links	10000
+snp_pubmed_cited	Pubmed (SNP Cited)	Pubmed (SNP Cited)	Related Pubmed (SNP Cited) records	5000
+snp_snp_genegenotype	Gene Genotype	Gene Genotype Links	Gene Genotype Report	10000
+snp_structure	Structure	Structure Links	Related Structures	10000
+snp_taxonomy	Taxonomy	Taxonomy Links	Related Taxonomy records	10000
+snp_trace	Trace	Trace Links	Related Trace records	5000
+snp_unigene	UniGene	UniGene Links	Related UniGene records	10000
+snp_unists	STS	UniSTS Links	Related UniSTS records	10000
+sra_biosample	BioSample	BioSample Links	BioSample links	5000
+sra_gap	dbGaP	dbGaP Links	Related dbGaP record	5000
+sra_gds	GEO DataSets	GEO DataSet Links	Related GEO DataSets	5000
+sra_gene	Gene	Gene Links	Links to Gene	5000
+sra_genome	Genome	Genome Links	Related Genomes	5000
+sra_genomeprj	Genome Project	Genome Project Links	Links to Genome Project	5000
+sra_nuccore	Nucleotides	Nucleotide Links	Related Nucleotide Links	5000
+sra_nuccore_wgs	WGS	WGS links	Links to nucleotide WGS masters	5000
+sra_pubmed	PubMed	PubMed Links	Links to PubMed articles	5000
+sra_seqsample	SeqSample	SeqSample Links	Links to Biological Sequence Samples	5000
+sra_taxonomy	Taxonomy	Taxonomy Links	Links to Taxonomy	5000
+structure_biosystems	BioSystems	BioSystem Links	BioSystems	5000
+structure_cdd	Conserved Domains	Conserved Domain Links	Conserved domain annotations	10000
+structure_cdd_family_2	Conserved Domain Family	Conserved Domain Family Links	Conserved domain family	5000
+structure_cdd_superfamily_2	Conserved Domain Superfamily	Conserved Domain Superfamily Links	Link to a conserved domain superfamily	5000
+structure_domains	3D Domains	3D Domain Links	Domain records for a given structure	10000
+structure_genome	Genome	Genome Links	Genome record of 3D structure	10000
+structure_mmdb	VAST	-	VAST links	5000
+structure_mmdb	Related Structures	-	VAST links	10000
+structure_nuccore	Nucleotide	Nucleotide Links	Nucleotide sequence of 3D structure	10000
+structure_nucest	EST	EST Links	EST sequence of 3D structure	10000
+structure_nucgss	GSS	GSS Links	GSS sequence of 3D structure	10000
+structure_omim	OMIM	OMIM Links	OMIM records associated with 3D structure	10000
+structure_pcassay	BioAssay	BioAssay Links	Related PubChem BioAssay	10000
+structure_pccompound	PubChem Compound	PubChem Compound Links	Related PubChem Compound	10000
+structure_pcsubstance	PubChem Substance	PubChem Substance Links	Related PubChem Substance	10000
+structure_pmc	Full text in PMC	PMC Links	Free full text articles in PMC	10000
+structure_protein	Protein	Protein Links	Protein sequence of 3D structure	10000
+structure_protein_related_list	Related Proteins	Related Proteins	List of related proteins	500
+structure_pubmed	PubMed	PubMed Links	PubMed citation referenced in MMDB record, Molecular Modeling Database (NCBI’s 3D Structure database), retrieved via the Structure database.	10000
+structure_snp	SNP	SNP Links	Related SNPs	10000
+structure_taxonomy	Taxonomy	Taxonomy Links	Taxonomy sequences associated with structure record	10000
+taxonomy_biosample	BioSample	BioSample Links	BioSample links	5000
+taxonomy_biosystems	BioSystems	BioSystem Links	BioSystems	5000
+taxonomy_cdd	Conserved Domains	Conserved Domain Links	Link to related CDD entry	10000
+taxonomy_domains	3D Domains	3D Domain Links	Domain records for a given organism	10000
+taxonomy_epigenomics	Epigenomics	Epigenomics Links	Related Epigenomics records	5000
+taxonomy_gds	GEO DataSets	GEO DataSet Links	Related GEO DataSets	10000
+taxonomy_gene_exp	Gene	Gene Links	Gene records associated with taxonomy record (exploded for higher taxa)	5000
+taxonomy_genome_exp	Genome	Genome Links	Genome records associated with taxonomy record (exploded for higher taxa)	5000
+taxonomy_genomeprj	Genome Project	Genome Project Links	Related Genome Projects	10000
+taxonomy_gensat	GENSAT	GENSAT Links	Related GENSAT	10000
+taxonomy_geo	GEO Profiles	-	GEO records associated with taxonomy record	5000
+taxonomy_geo_exp	GEO Profiles	GEO Profile Links	Geo records associated with taxonomy record (exploded for higher taxa)	5000
+taxonomy_geoprofiles	GEO Profiles	-	GEO records associated with taxonomy record	10000
+taxonomy_homologene	HomoloGene	HomoloGene Links	Related HomoloGene	10000
+taxonomy_mesh	MeSH	MeSH Links	Related MeSH term	5000
+taxonomy_nuccore	nuccore	nuccore	Links to nuccore	5000
+taxonomy_nuccore	Nucleotide	Nucleotide Links	Nucleotide sequences associated with taxonomy record	5000
+taxonomy_nucest	nucest	nucest	Links to nucest	5000
+taxonomy_nucest	EST	EST Links	EST sequences associated with taxonomy record	5000
+taxonomy_nucgss	nucgss	nucgss	Links to nucgss	5000
+taxonomy_nucgss	GSS	GSS Links	GSS sequences associated with taxonomy record	5000
+taxonomy_nucleotide_exp	Nucleotide	Nucleotide Links	Nucleotide sequences associated with taxonomy record (exploded for higher taxa)	5000
+taxonomy_nucleotide	Nucleotide	Nucleotide Links	Nucleotide sequences associated with taxonomy record	5000
+taxonomy_omia	OMIA	OMIA Links	Related OMIA articles	10000
+taxonomy_pcassay	PubChem BioAssay	PubChem BioAssay Links	Related PubChem BioAssay	5000
+taxonomy_pccompound	PubChem Compound	PubChem Compound Links	PubChem Compounds	5000
+taxonomy_pcsubstance	PubChem Substance	PubChem Substance Links	PubChem Substances	5000
+taxonomy_pepdome	Peptidome	Peptidome Links	Related Peptidome links	5000
+taxonomy_pmc	Full text in PMC	PMC Links	Free full text articles in PMC	10000
+taxonomy_popset	PopSet	PopSet Links	Popset sequences associated with taxonomy record	10000
+taxonomy_probe	Probe	Probe Links	Related Probe entry	10000
+taxonomy_protein_exp	Protein	Protein Links	Protein sequences associated with taxonomy record (exploded for higher taxa)	5000
+taxonomy_proteinclusters	Protein Clusters	Protein Cluster Links	Related Protein Clusters	5000
+taxonomy_pubmed_entrez	PubMed via GenBank	PubMed via GenBank	Links generated by using the relationship between Taxonomy -> (Nucleotide, Protein, Gene, SNP, Structure) -> PubMed.	5000
+taxonomy_pubmed	PubMed Articles	PubMed Links	Link to related PubMed articles	10000
+taxonomy_snp	SNP	SNP Links	Related SNPs records	5000
+taxonomy_snp_exp	SNP	SNP Links	Snp records associated with taxonomy record (exploded for higher taxa)	5000
+taxonomy_sra	SRA	SRA Links	Links to Short Read Archive Experiments	5000
+taxonomy_structure_exp	Structure	Structure Links	Structure sequences associated with taxonomy record (exploded for higher taxa)	5000
+taxonomy_unigene	UniGene	UniGene Links	Related unigene entry	10000
+taxonomy_unists	UniSTS	UniSTS Links	Related UniSTS records	10000
+unigene_cdd	Conserved Domains	Conserved Domain Links	Related CDD	10000
+unigene_gene	Gene	Gene Links	Links to genes	10000
+unigene_gensat	GENSAT	GENSAT Links	Related GENSAT records	10000
+unigene_geo	GEO Profiles	GEO Profile Links	Related GEO	10000
+unigene_geoprofiles	GEO Profiles	GEO Profile Links	Related GEO	10000
+unigene_homologene	HomoloGene	HomoloGene Links	Related HomoloGene	10000
+unigene_nuccore_mgc	-	Nucleotide NIH cDNA clone links	Nucleotide NIH cDNA clone	10000
+unigene_nuccore	Nucleotide	Nucleotide Links	Related ests in Nucleotide database	10000
+unigene_nucest	EST	EST Links	Related ests in EST database	10000
+unigene_nucgss	GSS	GSS Links	Related ests in GSS database	10000
+unigene_nucleotide_mgc_url	Order cDNA clone	-	Order cDNA clone	5000
+unigene_omia	OMIA	OMIA Links	Related OMIA records	5000
+unigene_omim	OMIM	OMIM Links	Related OMIM records	10000
+unigene_protein	Protein	Protein Links	Related Protein records	10000
+unigene_pubmed	PubMed	PubMed Links	Related PubMed articles	10000
+unigene_snp	SNP	SNP Links	Related SNPs	10000
+unigene_snp_genegenotype	Gene Genotype	Gene Genotype Links	Gene Genotype Report	10000
+unigene_snp_geneview	GeneView in dbSNP	-	SNPs linked from GeneView	10000
+unigene_taxonomy	Taxonomy	Taxonomy Links	Related taxonomy entry	10000
+unigene_unigene_expression	Co-expressed UniGene	Co-expressed UniGene	Co-expressed UniGene	5000
+unigene_unigene_homologous	Homologous UniGene	Homologous UniGene	Homologous UniGene	10000
+unigene_unigene_expression	Co-expressed UniGene	Co-expressed UniGene	Co-expressed UniGene	5000
+unigene_unists	UniSTS	UniSTS Links	Related UniSTS	10000
+unists_gene	Gene	Gene Links	UniSTS generates gene links identified through three sources:  
+unists_nuccore	Nucleotide	Nucleotide Links	Links are identified through electronic PCR process where PCR primer pair in UniSTS are predicted to amplify against sequences in nuccore.	10000
+unists_nucest	EST	EST Links	Links are identified through electronic PCR process where PCR primer pair in UniSTS are predicted to amplify against sequences in dbEST.	10000
+unists_nucgss	GSS	GSS Links	Links are identified through electronic PCR process where PCR primer pair in UniSTS are predicted to amplify against sequences in GenBank GSS division.	10000
+unists_omia	OMIA	OMIA Links	UniSTS to OMIA links are indirectly calculated based on combining UniSTS to OMIM links and by OMIM to OMIA links.	5000
+unists_omim	OMIM	OMIM Links	OMIM links are identified through two sources:  
+unists_pmc	Full text in PMC	PMC Links	PubMed Central links are identified by submitted marker to PubMed data that are present in PubMed Central, and by identifying Dseg markers in UniSTS present in full-text articles in PubMed Central.	10000
+unists_pubmed	PubMed	PubMed Links	PubMed links are identified by submitted PubMed data associated with markers in UniSTS, and by identifying Dseg markers in UniSTS present in PubMed abstracts.	10000
+unists_snp	SNP	SNP Links	Related SNPs	10000
+unists_taxonomy	Taxonomy	Taxonomy Links	Links identified through two mechanisms:  
+unists_unigene	UniGene	UniGene Links	UniSTS generates UniGene links identified through electronic PCR process where PCR primer pair in UniSTS are predicted to amplify against mRNA sequences in GenBank that belong to UniGene clusters	
